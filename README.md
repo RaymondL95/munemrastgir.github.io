@@ -1,5 +1,3 @@
 # Fitness-Web
 Capstone Project  
-https://www.jefit.com/exercises/  
-Hello  
-bye
+https://www.jefit.com/exercises/
