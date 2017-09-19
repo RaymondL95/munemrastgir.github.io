@@ -1,2 +1,7 @@
-hello
-hello
+Things to remember
+
+git add file name
+git commit -m “comment”
+git push 
+
+always remember to git pull
