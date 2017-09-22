@@ -1,4 +1,4 @@
-Descriptions about the assigned body part.
+﻿Descriptions about the assigned body part.
 
 Biceps, triceps, forearm descriptions
 
@@ -55,3 +55,20 @@ Lie down on your chest with the movement pad resting on the back of your ankles.
 
 •	Leg Extension, quadriceps
 Sit on the leg curl machine with the movement pad resting on the front of your ankles. Kick your legs up until they are straight and then move them back down.
+
+Bench Press
+
+-	Lie flat on the bench, Lift the bar out of the rack straight above your chest with arms locked. Come down slowly until the bar touches the middle of your chest. After a brief pause push the bar straight up while breathing out.
+
+Incline Bench Press
+-	Sit down on the bench with head rested on the seat. Lift the bar out above your chest. With elbows pointed straight slowly come down on your chest. After a brief pause lift the bar back above your chest.
+
+Decline Bench Press
+-	Secure your legs at the end of the decline bench and slowly lay down on the bench.  Hold the bar above you, with elbows pointed straight slowly descend until it touches your chest. After a brief pause return to starting position.
+
+Chest Flyes
+-	Lie down on a bench with elbows slightly bent. Slowly bring your arms down in an arc until you feel a stretch in your chest. Make sure to breathe in during this portion of the exercise. Afterwards return to starting position.
+
+Dips (chest)
+-	Hold your body at arms length above parallel bars. While breathing in lower your body with your chest slightly leaning forward (30 degrees). When you feel a stretch in your chest slowly breathe in and return to the starting position.
+
