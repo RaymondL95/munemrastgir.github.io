@@ -7,15 +7,20 @@ From last week:
 
 [x] install and learn git/github
 
-[x] write my chapter of the project proposal presentation
-
-
 Added mid-week:
 
 For this week:
 
-[ ] Create descriptions about the assigned body part.  
-    [ ] Create Description on chest area
+[ x ] Create descriptions about the assigned body part.  
+[ x ] Create Description on chest area
+
+[ x  ] Start local version of website.
+
+For next week:
+[ ] Create Chest exercises
+[ ] Create Additional UI for website
+[  ] Download Sketch Up
+[  ] Start creating the 3D Human Muscular Model
 ==================================================================================================================================
 Shi Li Liang’s work
 
@@ -23,16 +28,20 @@ From last week:
 
 [x] install and learn git/github
 
-[x] write my chapter of the project proposal presentation
-
-
 Added mid-week:
 
 For this week:
 
-[ ] Create descriptions about the assigned body part.
-[ ] Biceps, triceps, forearm descriptions
+[ x ] Create descriptions about the assigned body part.
+    [ x ] Biceps, triceps, forearm descriptions
+[ x  ] Start local version of website.
 
+For next week:
+
+[  ] Download Sketch Up
+  [  ] Start creating the 3D Human Muscular Model
+[  ] Add more exercise descriptions
+[  ] Creating clickable areas on the 2D model
 ==================================================================================================================================
 Munem Rastgir’s work
 
@@ -40,14 +49,21 @@ From last week:
 
 [x] install and learn git/github
 
-[x] write my chapter of the project proposal presentation
-
-
 Added mid-week:
 
 For this week:
 
-[ ] Create descriptions about the assigned body part.
+[x] Create descriptions about the assigned body part.
+[ x  ] Start local version of website.
+[x] Learn features of HTML and CSS to highlight images
+
+For next week:
+
+[  ] Download Sketch Up
+  [  ] Start creating the 3D Human Muscular Model
+  [ ] Create Website homepage
+  [ ] Write up 10 more exercise descriptions
+  [ ] Add subpages to main page
 ==================================================================================================================================
 Christopher Mayol’s work
 
@@ -55,11 +71,17 @@ From last week:
 
 [x] install and learn git/github
 
-[x] write my chapter of the project proposal presentation
-
-
 Added mid-week:
 
 For this week:
 
-[ ] Create descriptions about the assigned body part.
+[x] Create descriptions about the assigned body part.
+[ x  ] Start local version of website.
+
+For next week:
+
+[  ] Download Sketch Up
+  [  ] Start creating the 3D Human Muscular Model
+  [] learn more about javascript and json
+  [] create a c++ program to parse our exercise database to json format
+  [] workon adding links to an area of our image file
