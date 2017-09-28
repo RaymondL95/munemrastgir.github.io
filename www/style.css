@@ -26,7 +26,4 @@ body{
 .nav >li > a:hover{
  	color: #c1c1c1; 
 }
-.logo{
-	float: top;
-	margin-left: -800px;
-}
+
