@@ -27,3 +27,11 @@ body{
  	color: #c1c1c1; 
 }
 
+.brightness {
+    background-color: white;
+    display: inline-block;
+
+}
+.brightness img:hover {
+    opacity: .5;
+}
