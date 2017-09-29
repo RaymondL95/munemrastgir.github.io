@@ -1,0 +1,57 @@
+﻿September 25th
+“Fitness-Web”
+
+Raymond Leung’s work
+
+From last week:
+[ x ] Create descriptions about the assigned body part.
+	[ x ] Create Description on chest area
+[x] Start local version of website.
+Added mid-week:
+[ ] Create Drop-Down Menu
+For this week:
+[x] Create Chest exercises
+[x] Use css for gui
+	[x] Create Navigation Bar.
+For next week:
+[ ] Create Additional UI for website
+
+
+============================================================
+============================================================
+Shi Li Liang’s work
+From last week:
+[ x ] Create descriptions about the assigned body part.
+    [ x ] Biceps, triceps, forearm descriptions
+[ x  ] Start local version of website.
+
+Added mid-week:
+For this week:
+
+For next week:
+
+============================================================
+============================================================
+Munem Rastgir’s work
+From last week:
+[x] Create descriptions about the assigned body part.
+[x] Start local version of website.
+[x] Learn features of HTML and CSS to highlight images
+
+Added mid-week:
+For this week:
+
+
+For next week:
+
+============================================================
+============================================================
+Christopher Mayol’s work
+From last week:
+[x] Create descriptions about the assigned body part.
+[ x  ] Start local version of website.
+Added mid-week:
+
+For this week:
+
+For next week:
