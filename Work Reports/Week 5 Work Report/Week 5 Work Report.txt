@@ -46,8 +46,11 @@ From last week:
 [x] Learn features of HTML and CSS to highlight images
 
 Added mid-week:
+[] Create a search box for webpage
+[x] Research ways to display a picture on mouse hover
 For this week:
-
+[x] Created 5 different color schemes for highlighted body parts
+[x] Research JSON database for storing info for 600+ exercises
 
 For next week:
 
