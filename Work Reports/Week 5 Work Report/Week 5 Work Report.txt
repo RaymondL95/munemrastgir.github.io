@@ -1,4 +1,4 @@
-﻿September 25th
+September 25th
 “Fitness-Web”
 
 Raymond Leung’s work
@@ -26,9 +26,16 @@ From last week:
 [ x  ] Start local version of website.
 
 Added mid-week:
+[ x ] creating additional sub websites
+    [ x ] linking each of the websites to each other
 For this week:
-
+[ x ] creating clickable areas on each of the bigger muscle groups
+    [ x ] linking each of the areas to the corresponding sub websites
 For next week:
+[ ] look into ways to highlighting specific parts of the 2d model  
+  [ ] research jQuery
+  [ ] research SVG
+[ ] Create additional UI for website
 
 ============================================================
 ============================================================
