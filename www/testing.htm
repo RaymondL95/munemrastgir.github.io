@@ -8,16 +8,9 @@
 <p id="demo"></p>
 
 <script>
-var text ='{"Chest": [' +
-'{"Exercise": "benchPress","Descriptions": "1) lay on the bench 2) press the desired weight", "link": "chest/benchPress.htm"},' +
-'{"Exercise": "inclineBenchPress","Descriptions": "1) lay on the bench 2) press the desired weight", "link": "chest/inclineBenchPress.htm"},' +
-'{"Exercise": "chestFlies","Descriptions": "1) lay on the bench 2) press the desired weight", "link": "chest/chestFlies.htm"}],' +
-'"Bicep": [' +
-'{"Exercise": "hammerCurls","Descriptions": "1) get desired dumbells 2) curl the weights", "link": "arms/bicep/hammerCurls.htm"},' +
-'{"Exercise": "bicepCurls","Descriptions": "1) get desired dumbells 2) curl the weights",' +
-'"link": "arms/bicep/bicepCurls.htm"}]}';
+var text =loadJSON("fitJsonDataExample.json");
 
-obj = JSON.parse(text);
+//obj = JSON.parse(text);
 document.getElementById("demo").innerHTML =
 obj.chest[0].exercise + " " + obj.chest[0].link;
 </script>
