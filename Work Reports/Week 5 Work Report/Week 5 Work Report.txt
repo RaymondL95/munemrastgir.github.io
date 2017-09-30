@@ -53,7 +53,8 @@ For this week:
 [x] Research JSON database for storing info for 600+ exercises
 
 For next week:
-
+[] Establish constant deisgn pattern for subpages
+[] Write more descriptions for exercises
 ============================================================
 ============================================================
 Christopher Mayol’s work
