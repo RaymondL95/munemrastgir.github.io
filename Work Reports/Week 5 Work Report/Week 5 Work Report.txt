@@ -1,4 +1,4 @@
-September 25th
+﻿September 25th
 “Fitness-Web”
 
 Raymond Leung’s work
@@ -9,6 +9,7 @@ From last week:
 [x] Start local version of website.
 Added mid-week:
 [ ] Create Drop-Down Menu
+[ ]Create highlighting on body parts.
 For this week:
 [x] Create Chest exercises
 [x] Use css for gui
