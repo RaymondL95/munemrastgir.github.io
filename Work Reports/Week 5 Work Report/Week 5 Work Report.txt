@@ -62,7 +62,16 @@ From last week:
 [x] Create descriptions about the assigned body part.
 [ x  ] Start local version of website.
 Added mid-week:
+[x] Research javascript
+[x] Research jquery
 
 For this week:
+[x] Research JSON and how its implements in javascript
+[] create a json parser which converts our data to json format
+[x] fixed some path issues with our web pages
 
 For next week:
+[] Test and output our exercise database
+[] Write more descriptions for exercises
+[] Write and decide all the data an muscle object will contain
+[] update the json parser 
