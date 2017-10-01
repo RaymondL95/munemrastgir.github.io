@@ -1,37 +1,67 @@
 body{
-	margin: 0;
-  	padding: 0;
+    margin:0px;
+  	padding:0px;
   	font-family: 'Arial',serif;
+    color:black;
 }
 
-.nav{
-
- 	background-color: #595959;
-  	color: #ffffff;
-  	list-style: none;
-  	text-align: center;
-	text-transform: uppercase;
- 	padding: 20px 0 20px 0;
+ul{
+    background-color: red;
+    color: #ffffff;
+    list-style: none;
+    text-align: center;
+    text-transform: uppercase;
+    margin: 0px;
+    padding: 0px;
+    
+    
 }
-.nav >li {
-	display: inline-block;
-  	padding-right: 100px;
+ul >li {
+    float:left;
+    width:200px;
+    height:40px;
+    background-color:gray;
+    /* Do not Change Opacity */
+    opacity:.8;
+    line-height:40px;
+    text-align: center;
+    font-size:16px;
+    display: inline-block;
+    padding-right: 100px;
+    
+}
+ul>li>a{
+    text-decoration: none;
+    color: #ffffff;
+    display:block;   
+}
+ul>li a:hover:{
+   color: #c1c1c1; 
+}
+/* Do not display dropdown if not hovering*/
+ul>li>ul>li{
+    display:none;
+}
+/* Display Dropdown on mouse-over */
+ul>li:hover ul>li{
+    display:block;
 }
 
-.nav >li > a{
- 	text-decoration: none;
-  	color: #ffffff;
+image-map : hover:{
+    opacity:.5;
 }
 
-.nav >li > a:hover{
- 	color: #c1c1c1; 
-}
 
+/*
 .brightness {
-    background-color: white;
+    background-color: black;
     display: inline-block;
 
 }
 .brightness img:hover {
     opacity: .5;
 }
+
+*/
+
+
