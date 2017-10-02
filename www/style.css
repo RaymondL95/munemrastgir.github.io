@@ -18,7 +18,7 @@ ul{
 }
 ul >li {
     float:left;
-    width:200px;
+    width:150px;
     height:40px;
     background-color:gray;
     /* Do not Change Opacity */
