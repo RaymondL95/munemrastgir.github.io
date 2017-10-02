@@ -1,6 +1,6 @@
 {
   "Chest": [
-    {"Exercise": "benchPress","Descriptions": "1) lay on the bench 2) press the desired weight", "link": "chest/benchPress.htm"},
+    {"Exercise": "benchPress","Descriptions": "1) lay on the bench 2) press the desired weight", "link": "chest/chest.htm"},
 	{"Exercise": "inclineBenchPress","Descriptions": "1) lay on the bench 2) press the desired weight", "link": "chest/inclineBenchPress.htm"},
 	{"Exercise": "chestFlies","Descriptions": "1) lay on the bench 2) press the desired weight", "link": "chest/chestFlies.htm"}
     ],
