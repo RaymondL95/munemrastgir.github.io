@@ -47,21 +47,67 @@ ul>li:hover ul>li{
     display:block;
 }
 
-image-map : hover:{
-    opacity:.5;
+.body{
+    position: relative;
+		top: 0px;
+		left: 0px;
 }
 
+.arms:hover{
+        position:relative;
+    }
 
-/*
-.brightness {
-    background-color: black;
-    display: inline-block;
+    .arms:hover:after{
+        content: url("https://i.imgur.com/RijcUR4.jpg");
+        position: relative;
+        left: 360px;
+        top: -752px;
+        pointer-events: none;
+    }
 
+.abs:hover{
+    position: relative;
 }
-.brightness img:hover {
-    opacity: .5;
+.abs:hover:after{
+    content:url(https://i.imgur.com/RNYk2o7.jpg);
+    position: absolute;
+    left: 360px;
+    top: -752px;
+    pointer-events: none;
 }
 
-*/
+.chest:hover{
+    position: relative;
+}
+.chest:hover:after{
+    content:url(https://i.imgur.com/kHUysx8.jpg);
+    position: absolute;
+    left: 360px;
+    top: -752px;
+    pointer-events: none;
+}
+
+.legs:hover{
+    position: relative;
+}
+.legs:hover:after{
+    content:url(https://i.imgur.com/AcBcFMx.jpg);
+    position: absolute;
+    left: 360px;
+    top: -752px;
+    pointer-events: none;
+}
+
+.back:hover{
+    position: relative;
+}
+.back:hover:after{
+    content:url(https://i.imgur.com/iRyjPza.jpg);
+    position: absolute;
+    left: 360px;
+    top: -752px;
+    pointer-events: none;
+}
+
 
 
