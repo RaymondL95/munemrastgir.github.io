@@ -1,8 +1,9 @@
 {
 "Arms": [
 
-{"Exercise": "hammerCurls","Descriptions": "1) get desired dumbells 2) curl the weights", "link": "arms.htm"},
-{"Exercise": "bicepCurls","Descriptions": "1) get desired dumbells 2) curl the weights", "link": "arms.htm"}
+{"Exercise": "hammerCurls","Descriptions": "1) get desired dumbells 2) curl the weights", "Secondary": "Forearms", "link": "arms.htm"},
+    
+{"Exercise": "bicepCurls","Descriptions": "1) get desired dumbells 2) curl the weights", "Secondary": "Forearms", "link": "arms.htm"}
 ]
     
 }

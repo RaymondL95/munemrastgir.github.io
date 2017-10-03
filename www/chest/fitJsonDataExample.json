@@ -1,8 +1,11 @@
 {
   "Chest": [
-    {"Exercise": "benchPress","Descriptions": "1) lay on the bench 2) press the desired weight", "link": "chest.htm"},
-	{"Exercise": "inclineBenchPress","Descriptions": "1) lay on the bench 2) press the desired weight", "link": "chest.htm"},
-	{"Exercise": "chestFlies","Descriptions": "1) lay on the bench 2) press the desired weight", "link": "chest.htm"}
+    {"Exercise": "benchPress","Descriptions": "1) lay on the bench 2) press the desired weight", "Secondary": "Triceps", "link": "chest.htm"},
+      
+	{"Exercise": "inclineBenchPress","Descriptions": "1) lay on the bench 2) press the desired weight", "Secondary": "Triceps", "link": "chest.htm"},
+      
+	{"Exercise": "chestFlies","Descriptions": "1) lay on the bench 2) press the desired weight", "Secondary": "Deltoids", "link": "chest.htm"}
+      
     ]
 	
 }

@@ -4,11 +4,11 @@ var Data = $.getJSON("fitJsonDataExample.json",function(data){
     
    
     document.getElementById("demo").innerHTML =   
-data.Chest[0].Exercise + " " + str.link(data.Chest[0].link);
+data.Chest[0].Exercise + " " + data.Chest[0].Descriptions + " Secondary muscle: " + data.Chest[0].Secondary + " " + str.link(data.Chest[0].link);
     document.getElementById("demo1").innerHTML =   
-data.Chest[1].Exercise + " " + str.link(data.Chest[1].link);
+data.Chest[1].Exercise + " " + data.Chest[1].Descriptions + " Secondary muscle: " + data.Chest[1].Secondary + " " + str.link(data.Chest[1].link);
     document.getElementById("demo2").innerHTML =   
-data.Chest[2].Exercise + " " + str.link(data.Chest[2].link);
+data.Chest[2].Exercise + " " + data.Chest[2].Descriptions + " Secondary muscle: " + data.Chest[2].Secondary + " " +str.link(data.Chest[2].link);
 });
     
 
