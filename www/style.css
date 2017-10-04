@@ -6,6 +6,9 @@ body{
 }
 
 ul{
+    //Make Nav Bar Top layer;
+    position:relative;
+    z-index: 999;
     background-color: red;
     color: #ffffff;
     list-style: none;
@@ -29,14 +32,15 @@ ul >li {
     display: inline-block;
     padding-right: 100px;
     
+    
 }
 ul>li>a{
     text-decoration: none;
     color: #ffffff;
-    display:block;   
+    display:block; 
 }
 ul>li a:hover:{
-   color: #c1c1c1; 
+   color: #c1c1c1;
 }
 /* Do not display dropdown if not hovering*/
 ul>li>ul>li{
