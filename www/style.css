@@ -7,21 +7,21 @@ body{
 
 ul{
     //Make Nav Bar Top layer;
-    position:relative;
+     position:relative;
     z-index: 999;
-    background-color: red;
+    background-color: gray;
     color: #ffffff;
     list-style: none;
     text-align: center;
     text-transform: uppercase;
     margin: 0px;
-    padding: 0px;
+    padding: 0px 0 40px 0;
     
     
 }
 ul >li {
     float:left;
-    width:150px;
+    width:130px;
     height:40px;
     background-color:gray;
     /* Do not Change Opacity */
@@ -30,17 +30,15 @@ ul >li {
     text-align: center;
     font-size:16px;
     display: inline-block;
-    padding-right: 100px;
-    
-    
+    padding-right: 100px; 
 }
 ul>li>a{
     text-decoration: none;
-    color: #ffffff;
+    color: white;
     display:block; 
 }
 ul>li a:hover:{
-   color: #c1c1c1;
+   color: greenyellow;
 }
 /* Do not display dropdown if not hovering*/
 ul>li>ul>li{
