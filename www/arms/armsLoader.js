@@ -1,11 +1,10 @@
-var Data = $.getJSON("arms.json",function(data){
+$.getJSON("arms.json",function(data){
     console.log(data);
-    var str = "link";
+
+    var str= data.Arms[0].Exercise;
+    document.getElementById("Arms").innerHTML =str.link(data.Arms[0].link);
     
-    document.getElementById("demo").innerHTML =
-data.Arms[0].Exercise + " " + data.Arms[0].Descriptions + " Secondary muscle: " + data.Arms[0].Secondary + " " + str.link(data.Arms[0].link);
-    
-    document.getElementById("demo1").innerHTML =   
-data.Arms[1].Exercise + " " + data.Arms[0].Descriptions + " Secondary muscle: "  + data.Arms[0].Secondary + " " + str.link(data.Arms[1].link);
+    str= data.Arms[1].Exercise;
+    document.getElementById("Arms1").innerHTML =str.link(data.Arms[1].link);
     
 });
