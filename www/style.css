@@ -64,7 +64,12 @@ ul>li:hover ul>li{
         top: -752px;
         pointer-events: none;
     }
-
+img {
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    z-index: -1;
+}
 .abs:hover{
     position: relative;
 }
