@@ -1,0 +1,78 @@
+﻿September 25th
+“Fitness-Web”
+
+Raymond Leung’s work
+
+From last week:
+[ x ] Create descriptions about the assigned body part.
+	[ x ] Create Description on chest area
+[x] Start local version of website.
+Added mid-week:
+[ x ] Create Drop-Down Menu
+[ ]Create highlighting on body parts.
+For this week:
+[x] Create Chest exercises
+[x] Use css for gui
+	[x] Create Navigation Bar.
+For next week:
+[ ] Create Additional UI for website
+
+
+============================================================
+============================================================
+Shi Li Liang’s work
+From last week:
+[ x ] Create descriptions about the assigned body part.
+    [ x ] Biceps, triceps, forearm descriptions
+[ x  ] Start local version of website.
+
+Added mid-week:
+[ x ] creating additional sub websites
+    [ x ] linking each of the websites to each other
+For this week:
+[ x ] creating clickable areas on each of the bigger muscle groups
+    [ x ] linking each of the areas to the corresponding sub websites
+For next week:
+[ ] look into ways to highlighting specific parts of the 2d model  
+  [ ] research jQuery
+  [ ] research SVG
+[ ] Create additional UI for website
+
+============================================================
+============================================================
+Munem Rastgir’s work
+From last week:
+[x] Create descriptions about the assigned body part.
+[x] Start local version of website.
+[x] Learn features of HTML and CSS to highlight images
+
+Added mid-week:
+[] Create a search box for webpage
+[x] Research ways to display a picture on mouse hover
+For this week:
+[x] Created 5 different color schemes for highlighted body parts
+[x] Research JSON database for storing info for 600+ exercises
+
+For next week:
+[] Establish constant deisgn pattern for subpages
+[] Write more descriptions for exercises
+============================================================
+============================================================
+Christopher Mayol’s work
+From last week:
+[x] Create descriptions about the assigned body part.
+[ x  ] Start local version of website.
+Added mid-week:
+[x] Research javascript
+[x] Research jquery
+
+For this week:
+[x] Research JSON and how its implements in javascript
+[] create a json parser which converts our data to json format
+[x] fixed some path issues with our web pages
+
+For next week:
+[] Test and output our exercise database
+[] Write more descriptions for exercises
+[] Write and decide all the data an muscle object will contain
+[] update the json parser 
