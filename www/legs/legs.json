@@ -1,0 +1,11 @@
+{
+  "legs": [
+    {"Exercise": "squats","Descriptions": "1) lay on the bench 2) press the desired weight", "Secondary": "Triceps", "link": "legs.htm"},
+      
+	{"Exercise": "lunges","Descriptions": "1) lay on the bench 2) press the desired weight", "Secondary": "Triceps", "link": "legs.htm"},
+      
+	{"Exercise": "chestFlies","Descriptions": "1) lay on the bench 2) press the desired weight", "Secondary": "Deltoids", "link": "legs.htm"}
+      
+    ]
+	
+}
