@@ -23,7 +23,21 @@
             <li> <a href= "arms/arms.htm">Triceps</a>
         </ul>
     </li>        
-    <li> <a href= "more.htm">More</a></li>
+    
+    <!--Drop Down Under more --> 
+    <li> <a href= "more.htm">More</a>
+    <ul>
+            <li> <a href= "">Calculators</a>
+            <li> <a href= "">Nutrition</a>
+            <li> <a href= "">Supplements</a>    
+            <li> <a href= "">Workout Plans</a> 
+            <li> <a href= "">Tips</a>
+    </ul>
+    
+    
+    
+    </li>
+    
     <li> <a href= "aboutus.htm">About Us</a></li> 
     <li> <a href= "contact.htm">Contact</a></li> 
     <li> <form><div>
@@ -41,19 +55,19 @@
 
 
 <map name="image-map"> <!-- Clickable areas on the image -->
-    <area target="_self" alt="biceps" title="biceps" href="Arms/arms.htm" coords="90,176,125,249" shape="rect" class="arms">
-                <area target="_self" alt="abs" title="abs" href="Abs/abs.htm" coords="152,210,219,322" shape="rect" class="abs">
-                <area target="_self" alt="chest" title="chest" href="Chest/chest.htm" coords="126,142,248,208" shape="rect" class="chest">
-                <area target="_self" alt="back" title="back" href="Back/back.htm" coords="466,307,580,111" shape="rect"class="back">
-                <area target="_self" alt="legs" title="legs" href="Legs/legs.htm" coords="462,331,579,724" shape="rect"class="legs">
-                <area target="_self" alt="legs" title="legs" href="Legs/legs.htm" coords="121,346,248,723" shape="rect" class="legs">
-                <area target="_self" alt="shoulder" title="shoulder" href="Arms/arms.htm" coords="106,149,23" shape="circle" class="arms">
-                <area target="_self" alt="shoulder" title="shoulder" href="Arms/arms.htm" coords="264,148,22" shape="circle" class="arms">
-                <area target="_self" alt="biceps" title="biceps" href="Arms/arms.htm" coords="255,176,295,254" shape="rect" class="arms">
-                <area target="_self" alt="triceps" title="triceps" href="Arms/arms.htm" coords="422,162,454,241" shape="rect"class="arms">
-                <area target="_self" alt="triceps" title="triceps" href="Arms/arms.htm" coords="587,158,622,243" shape="rect"class="arms">
-                <area target="_self" alt="forearm" title="forearm" href="Arms/arms.htm" coords="85,263,108,328" shape="rect"class="arms">
-                <area target="_self" alt="forearm" title="forearm" href="Arms/arms.htm" coords="269,263,309,333" shape="rect"class="arms">
+    <area target="_self" alt="biceps" title="biceps" href="arms/arms.htm" coords="90,176,125,249" shape="rect" class="arms">
+                <area target="_self" alt="abs" title="abs" href="abs/abs.htm" coords="152,210,219,322" shape="rect" class="abs">
+                <area target="_self" alt="chest" title="chest" href="chest/chest.htm" coords="126,142,248,208" shape="rect" class="chest">
+                <area target="_self" alt="back" title="back" href="back/back.htm" coords="466,307,580,111" shape="rect"class="back">
+                <area target="_self" alt="legs" title="legs" href="legs/legs.htm" coords="462,331,579,724" shape="rect"class="legs">
+                <area target="_self" alt="legs" title="legs" href="legs/legs.htm" coords="121,346,248,723" shape="rect" class="legs">
+                <area target="_self" alt="shoulder" title="shoulder" href="arms/arms.htm" coords="106,149,23" shape="circle" class="arms">
+                <area target="_self" alt="shoulder" title="shoulder" href="arms/arms.htm" coords="264,148,22" shape="circle" class="arms">
+                <area target="_self" alt="biceps" title="biceps" href="arms/arms.htm" coords="255,176,295,254" shape="rect" class="arms">
+                <area target="_self" alt="triceps" title="triceps" href="arms/arms.htm" coords="422,162,454,241" shape="rect"class="arms">
+                <area target="_self" alt="triceps" title="triceps" href="arms/arms.htm" coords="587,158,622,243" shape="rect"class="arms">
+                <area target="_self" alt="forearm" title="forearm" href="arms/arms.htm" coords="85,263,108,328" shape="rect"class="arms">
+                <area target="_self" alt="forearm" title="forearm" href="arms/arms.htm" coords="269,263,309,333" shape="rect"class="arms">
 </map>
 
   <div data-ng-app="" data-ng-init="weight=100;height=65">
@@ -66,6 +80,7 @@
             <p><b>BMI:</b> {{((weight * .45)/(height*.025))/(height*.025)}}</p>
 
         </div>
- 
+<!-- BMI Chart -->
+ <img src= "https://i.imgur.com/fap6Xuw.png" img>
 </BODY>
 </HTML>
