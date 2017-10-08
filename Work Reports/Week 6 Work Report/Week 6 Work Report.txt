@@ -42,7 +42,6 @@ For this week:
 [ ] Create additional UI for website
 For next week:
 
-
 ============================================================
 ============================================================
 Munem Rastgir’s work
@@ -52,15 +51,16 @@ From last week:
 [x] Research JSON database for storing info for 600+ exercises
 
 For this week:
-[] Create a search box for webpage
-[] Establish constant deisgn pattern for subpages
-[] Write more descriptions for exercises
-
+[X] Made different sections of body change color on hover (only works on Chrome)
+[X] Establish constant deisgn pattern for subpages
+[X] Added Json file into abs section
 Added mid-week:
-
+[x] Create a BMI calculator on the index page
 
 For next week:
-
+[] Research methods of highlighting objects on other browsers
+[] Think of more design elements and features to add onto site
+[] Make head of body clickable to link to a tips and knwoledge section
 ============================================================
 ============================================================
 Christopher Mayol’s work
