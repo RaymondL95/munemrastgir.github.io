@@ -4,6 +4,7 @@
 <TITLE>Welcome to Fitness-Web!</TITLE>
  <!--Link to style.css-->    
  <link rel="stylesheet" type="text/css" href="style.css">
+ <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.6.4/angular.min.js"></script>
 </HEAD>
 <BODY>
 <!--Navigation Bar -->    
@@ -55,5 +56,16 @@
                 <area target="_self" alt="forearm" title="forearm" href="Arms/arms.htm" coords="269,263,309,333" shape="rect"class="arms">
 </map>
 
+  <div data-ng-app="" data-ng-init="weight=100;height=65">
+
+            <h2>BMI Calculator</h2>
+
+            Weight: <input type="number" ng-model="weight">
+            Height: <input type="number" ng-model="height">
+
+            <p><b>BMI:</b> {{((weight * .45)/(height*.025))/(height*.025)}}</p>
+
+        </div>
+ 
 </BODY>
 </HTML>
