@@ -12,7 +12,9 @@ From last week:
 Added mid-week:
 
 For this week:
-[ ] Create Additional UI for website
+[x] Create Additional UI for website
+   [x] Additional Dropdown box.
+[x] BMI chart
 [x]Fixed navigation bar overlapping with image
 [x]Fixed Layout of website displayed on different resolutions
 [x]Fixed format of page titles
