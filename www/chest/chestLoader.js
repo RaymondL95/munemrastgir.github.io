@@ -10,9 +10,10 @@ function exerciseList(data){
     for(i=0; i<data.Chest.length; i++)
         {
             str=data.Chest[i].Exercise;
-            var li= document.createElement("li");
+            var li= document.createElement("li");  //create a new item for the list
+            //set the item to the ith exercise from our json database
             li.innerHTML=str.link(data.Chest[i].link) + " Secondary muscle: " + " " + data.Chest[i].Secondary + " " + data.Chest[i].Descriptions;
-            ul.appendChild(li);
+            ul.appendChild(li); // add that item to the unordered list
         }
 }
 
