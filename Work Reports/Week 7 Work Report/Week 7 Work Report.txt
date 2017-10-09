@@ -1,0 +1,83 @@
+﻿October 9th
+“Fitness-Web”
+
+Raymond Leung’s work
+
+From last week:
+[x] Create Additional UI for website
+   [x] Additional Dropdown box.
+[x] BMI chart
+[x]Fixed navigation bar overlapping with image
+[x]Fixed Layout of website displayed on different resolutions
+[x]Fixed format of page titles
+[x] added json and json to webpage.
+Added mid-week:
+
+For this week:
+[ ] find ways to highlight body on other browsers.
+[ ] populate json files.
+[ ] Create Additional UI for website
+For next week:
+
+
+============================================================
+============================================================
+Shi Li Liang’s work
+From last week:
+[x] look into ways to highlighting specific parts of the 2d model
+[x] Create additional UI for website
+[x] fixed htm links
+[x] created JSON file for individual body part
+[x] Created js file for displaying JSON file
+Added mid-week:
+
+
+For this week:
+[ ] populate JSON files
+[ ] Display JSON files differently on htm file
+[ ] Create additional UI for website
+
+For next week:
+
+
+============================================================
+============================================================
+Munem Rastgir’s work
+From last week:
+[X] Made different sections of body change color on hover (only works on Chrome)
+[X] Establish constant deisgn pattern for subpages
+[X] Added Json file into abs section
+[x] Create a BMI calculator on the index page
+For this week:
+[] Research methods of highlighting objects on other browsers
+[] Think of more design elements and features to add onto site
+[] Make head of body clickable to link to a tips and knwoledge section
+Added mid-week:
+
+
+For next week:
+
+============================================================
+============================================================
+Christopher Mayol’s work
+From last week:
+[x] create a json parser which converts our data to json format
+[x] Test and output our exercise database
+[x] Write more descriptions for exercises
+[x] Write and decide all the data an muscle object will contain
+[x] update the json parser 
+[x] add a search box
+Added mid-week:
+
+
+For this week:
+[] use javascript to automatically display the list of exercises in our json file
+[] do more research for node.js, js, html
+[] find and fix issues in our website
+[] generate a page based on a given exercise and it's data
+[] update the json parser with our desire changes
+
+For next week:
+
+
+
