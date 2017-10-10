@@ -1,18 +1,17 @@
-function exerciseLoader(data){
-       document.getElementById("h2").innerHTML= "NICE";//data.Chest[0].Exercise;
-}
+//function exerciseLoader(){
+  //     document.getElementById("h2").innerHTML= "NICE";//data.Chest[0].Exercise;
+//}
 
 //this fuction will create a unordered html list of all our exersices loaded from the json file
-function exerciseList(data){ 
-    var ul = document.getElementById("list");
-    var str;
+function exerciseList(data) { 
+    var ul = document.getElementById("list"), str;
     
-    for(i=0; i<data.Chest.length; i++)
+    for (var i=0; i<data.chest.length; i++)
         {
-            str=data.Chest[i].Exercise;
+            str=data.chest[i].Exercise;
             var li= document.createElement("li");  //create a new item for the list
             //set the item to the ith exercise from our json database
-            li.innerHTML=str.link(data.Chest[i].link) + " Secondary muscle: " + " " + data.Chest[i].Secondary + " " + data.Chest[i].Descriptions;
+            li.innerHTML=str.link(data.chest[i].link) + " Secondary muscle: " + " " + data.chest[i].Secondary + " " + data.chest[i].Descriptions;
             ul.appendChild(li); // add that item to the unordered list
         }
 }

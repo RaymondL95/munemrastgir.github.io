@@ -1,11 +1,263 @@
 {
-  "Chest": [
-    {"Exercise": "benchPress","Descriptions": "1) lay on the bench 2) press the desired weight", "Secondary": "Triceps", "link": "chest.htm"},
-      
-	{"Exercise": "inclineBenchPress","Descriptions": "1) lay on the bench 2) press the desired weight", "Secondary": "Triceps", "link": "chest.htm"},
-      
-	{"Exercise": "chestFlies","Descriptions": "1) lay on the bench 2) press the desired weight", "Secondary": "Deltoids", "link": "chest.htm"}
-      
-    ]
+  "chest":[
+      {
+         "Exercise":"alternating floor press",
+         "Descriptions":"1) lay on the bench 2) press the desired weight",
+         "Secondary":"Forearms",
+         "link":"chest/benchPress.htm"
+      },
+      {
+         "Exercise":"barbell bench press - medium grip",
+         "Descriptions":"1) lay on the bench 2) press the desired weight",
+         "Secondary":"Forearms",
+         "link":"chest/benchPress.htm"
+      },
+      {
+         "Exercise":"barbell guillotine bench press",
+         "Descriptions":"1) lay on the bench 2) press the desired weight",
+         "Secondary":"Forearms",
+         "link":"chest/benchPress.htm"
+      },
+      {
+         "Exercise":"behind head chest stretch",
+         "Descriptions":"1) lay on the bench 2) press the desired weight",
+         "Secondary":"Forearms",
+         "link":"chest/benchPress.htm"
+      },
+      {
+         "Exercise":"bench press - with bands",
+         "Descriptions":"1) lay on the bench 2) press the desired weight",
+         "Secondary":"Forearms",
+         "link":"chest/benchPress.htm"
+      },
+      {
+         "Exercise":"bent-arm dumbbell pullover",
+         "Descriptions":"1) lay on the bench 2) press the desired weight",
+         "Secondary":"Forearms",
+         "link":"chest/benchPress.htm"
+      },
+      {
+         "Exercise":"cable chest press",
+         "Descriptions":"1) lay on the bench 2) press the desired weight",
+         "Secondary":"Forearms",
+         "link":"chest/benchPress.htm"
+      },
+      {
+         "Exercise":"chest and front of shoulder stretch",
+         "Descriptions":"1) lay on the bench 2) press the desired weight",
+         "Secondary":"Forearms",
+         "link":"chest/benchPress.htm"
+      },
+      {
+         "Exercise":"chest push (single response)",
+         "Descriptions":"1) lay on the bench 2) press the desired weight",
+         "Secondary":"Forearms",
+         "link":"chest/benchPress.htm"
+      },
+      {
+         "Exercise":"chest push with run release",
+         "Descriptions":"1) lay on the bench 2) press the desired weight",
+         "Secondary":"Forearms",
+         "link":"chest/benchPress.htm"
+      },
+      {
+         "Exercise":"cross over - with bands",
+         "Descriptions":"1) lay on the bench 2) press the desired weight",
+         "Secondary":"Forearms",
+         "link":"chest/benchPress.htm"
+      },
+      {
+         "Exercise":"decline dumbbell bench press",
+         "Descriptions":"1) lay on the bench 2) press the desired weight",
+         "Secondary":"Forearms",
+         "link":"chest/benchPress.htm"
+      },
+      {
+         "Exercise":"drop push",
+         "Descriptions":"1) lay on the bench 2) press the desired weight",
+         "Secondary":"Forearms",
+         "link":"chest/benchPress.htm"
+      },
+      {
+         "Exercise":"dumbbell bench press",
+         "Descriptions":"1) lay on the bench 2) press the desired weight",
+         "Secondary":"Forearms",
+         "link":"chest/benchPress.htm"
+      },
+      {
+         "Exercise":"dynamic chest stretch",
+         "Descriptions":"1) lay on the bench 2) press the desired weight",
+         "Secondary":"Forearms",
+         "link":"chest/benchPress.htm"
+      },
+      {
+         "Exercise":"forward drag with press",
+         "Descriptions":"1) lay on the bench 2) press the desired weight",
+         "Secondary":"Forearms",
+         "link":"chest/benchPress.htm"
+      },
+      {
+         "Exercise":"front raise and pullover",
+         "Descriptions":"1) lay on the bench 2) press the desired weight",
+         "Secondary":"Forearms",
+         "link":"chest/benchPress.htm"
+      },
+      {
+         "Exercise":"hammer grip incline db bench press",
+         "Descriptions":"1) lay on the bench 2) press the desired weight",
+         "Secondary":"Forearms",
+         "link":"chest/benchPress.htm"
+      },
+      {
+         "Exercise":"heavy bag thrust",
+         "Descriptions":"1) lay on the bench 2) press the desired weight",
+         "Secondary":"Forearms",
+         "link":"chest/benchPress.htm"
+      },
+      {
+         "Exercise":"incline cable flye",
+         "Descriptions":"1) lay on the bench 2) press the desired weight",
+         "Secondary":"Forearms",
+         "link":"chest/benchPress.htm"
+      },
+      {
+         "Exercise":"incline dumbbell flyes - with a twist",
+         "Descriptions":"1) lay on the bench 2) press the desired weight",
+         "Secondary":"Forearms",
+         "link":"chest/benchPress.htm"
+      },
+      {
+         "Exercise":"incline push-up",
+         "Descriptions":"1) lay on the bench 2) press the desired weight",
+         "Secondary":"Forearms",
+         "link":"chest/benchPress.htm"
+      },
+      {
+         "Exercise":"incline push-up depth jump",
+         "Descriptions":"1) lay on the bench 2) press the desired weight",
+         "Secondary":"Forearms",
+         "link":"chest/benchPress.htm"
+      },
+      {
+         "Exercise":"incline push-up reverse grip",
+         "Descriptions":"1) lay on the bench 2) press the desired weight",
+         "Secondary":"Forearms",
+         "link":"chest/benchPress.htm"
+      },
+      {
+         "Exercise":"isometric wipers",
+         "Descriptions":"1) lay on the bench 2) press the desired weight",
+         "Secondary":"Forearms",
+         "link":"chest/benchPress.htm"
+      },
+      {
+         "Exercise":"leg-over floor press",
+         "Descriptions":"1) lay on the bench 2) press the desired weight",
+         "Secondary":"Forearms",
+         "link":"chest/benchPress.htm"
+      },
+      {
+         "Exercise":"leverage chest press",
+         "Descriptions":"1) lay on the bench 2) press the desired weight",
+         "Secondary":"Forearms",
+         "link":"chest/benchPress.htm"
+      },
+      {
+         "Exercise":"leverage decline chest press",
+         "Descriptions":"1) lay on the bench 2) press the desired weight",
+         "Secondary":"Forearms",
+         "link":"chest/benchPress.htm"
+      },
+      {
+         "Exercise":"leverage incline chest press",
+         "Descriptions":"1) lay on the bench 2) press the desired weight",
+         "Secondary":"Forearms",
+         "link":"chest/benchPress.htm"
+      },
+      {
+         "Exercise":"low cable crossover",
+         "Descriptions":"1) lay on the bench 2) press the desired weight",
+         "Secondary":"Forearms",
+         "link":"chest/benchPress.htm"
+      },
+      {
+         "Exercise":"machine bench press",
+         "Descriptions":"1) lay on the bench 2) press the desired weight",
+         "Secondary":"Forearms",
+         "link":"chest/benchPress.htm"
+      },
+      {
+         "Exercise":"neck press",
+         "Descriptions":"1) lay on the bench 2) press the desired weight",
+         "Secondary":"Forearms",
+         "link":"chest/benchPress.htm"
+      },
+      {
+         "Exercise":"one-arm flat bench dumbbell flye",
+         "Descriptions":"1) lay on the bench 2) press the desired weight",
+         "Secondary":"Forearms",
+         "link":"chest/benchPress.htm"
+      },
+      {
+         "Exercise":"plyo kettlebell pushups",
+         "Descriptions":"1) lay on the bench 2) press the desired weight",
+         "Secondary":"Forearms",
+         "link":"chest/benchPress.htm"
+      },
+      {
+         "Exercise":"push-up wide",
+         "Descriptions":"1) lay on the bench 2) press the desired weight",
+         "Secondary":"Forearms",
+         "link":"chest/benchPress.htm"
+      },
+      {
+         "Exercise":"push-ups with feet elevated",
+         "Descriptions":"1) lay on the bench 2) press the desired weight",
+         "Secondary":"Forearms",
+         "link":"chest/benchPress.htm"
+      },
+      {
+         "Exercise":"pushups",
+         "Descriptions":"1) lay on the bench 2) press the desired weight",
+         "Secondary":"Forearms",
+         "link":"chest/benchPress.htm"
+      },
+      {
+         "Exercise":"single-arm cable crossover",
+         "Descriptions":"1) lay on the bench 2) press the desired weight",
+         "Secondary":"Forearms",
+         "link":"chest/benchPress.htm"
+      },
+      {
+         "Exercise":"single-arm push-up",
+         "Descriptions":"1) lay on the bench 2) press the desired weight",
+         "Secondary":"Forearms",
+         "link":"chest/benchPress.htm"
+      },
+      {
+         "Exercise":"smith machine incline bench press",
+         "Descriptions":"1) lay on the bench 2) press the desired weight",
+         "Secondary":"Forearms",
+         "link":"chest/benchPress.htm"
+      },
+      {
+         "Exercise":"straight-arm dumbbell pullover",
+         "Descriptions":"1) lay on the bench 2) press the desired weight",
+         "Secondary":"Forearms",
+         "link":"chest/benchPress.htm"
+      },
+      {
+         "Exercise":"suspended push-up",
+         "Descriptions":"1) lay on the bench 2) press the desired weight",
+         "Secondary":"Forearms",
+         "link":"chest/benchPress.htm"
+      },
+      {
+         "Exercise":"wide-grip decline barbell bench press",
+         "Descriptions":"1) lay on the bench 2) press the desired weight",
+         "Secondary":"Forearms",
+         "link":"chest/benchPress.htm"
+      }
+   ]
 	
 }
