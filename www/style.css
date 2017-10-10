@@ -6,7 +6,7 @@ body{
    
 }
 
-ul{
+.nav{
     //Make Nav Bar Top layer;
      position:relative;
     z-index: 999;
@@ -20,7 +20,7 @@ ul{
     
     
 }
-ul >li {
+.nav >li {
     float:left;
     width:130px;
     height:40px;
@@ -33,20 +33,20 @@ ul >li {
     display: inline-block;
     padding-right: 100px; 
 }
-ul>li>a{
+.nav>li>a{
     text-decoration: none;
     color: white;
     display:block; 
 }
-ul>li a:hover:{
+.nav>li a:hover:{
    color: greenyellow;
 }
 /* Do not display dropdown if not hovering*/
-ul>li>ul>li{
+.nav>li>ul>li{
     display:none;
 }
 /* Display Dropdown on mouse-over */
-ul>li:hover ul>li{
+.nav>li:hover ul>li{
     display:block;
 }
 
