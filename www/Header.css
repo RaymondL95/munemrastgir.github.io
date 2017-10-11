@@ -1,0 +1,34 @@
+#container{
+    padding:0;
+    margin:0;
+    border:0;
+    text-align: center;
+}
+
+header{
+    height:100px;
+    background:#dbdbdb;
+    width:100%;
+    z-index:10;
+    position:fixed;
+}
+header>h1{
+    opacity: 50%;
+    color:Black;
+}
+#banner{
+    background:url(http://www.goldsgym.com/losangelesdtca/wp-content/uploads/sites/505/2016/08/golds-gym-downtown-la-ca-weight-training.jpg);
+    background-size:cover;
+    width:100%;
+    height:700px;
+    position:fixed;
+    top:100px;
+}
+#content{
+    
+    width:100%;
+    position:relative;
+    top:1000px;
+    background:white;
+    height:1600px;
+}
