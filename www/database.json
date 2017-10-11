@@ -7,18 +7,6 @@
          "link":"chest/benchPress.htm"
       },
       {
-         "Exercise":"ab roller",
-         "Descriptions":"1) lay on the bench 2) press the desired weight",
-         "Secondary":"Forearms",
-         "link":"chest/benchPress.htm"
-      },
-      {
-         "Exercise":"air bike",
-         "Descriptions":"1) lay on the bench 2) press the desired weight",
-         "Secondary":"Forearms",
-         "link":"chest/benchPress.htm"
-      },
-      {
          "Exercise":"air bike",
          "Descriptions":"1) lay on the bench 2) press the desired weight",
          "Secondary":"Forearms",
@@ -299,12 +287,6 @@
          "link":"chest/benchPress.htm"
       },
       {
-         "Exercise":"adductor/groin",
-         "Descriptions":"1) lay on the bench 2) press the desired weight",
-         "Secondary":"Forearms",
-         "link":"chest/benchPress.htm"
-      },
-      {
          "Exercise":"groin and back stretch",
          "Descriptions":"1) lay on the bench 2) press the desired weight",
          "Secondary":"Forearms",
@@ -332,18 +314,6 @@
    "biceps":[
       {
          "Exercise":"alternate hammer curl",
-         "Descriptions":"1) lay on the bench 2) press the desired weight",
-         "Secondary":"Forearms",
-         "link":"chest/benchPress.htm"
-      },
-      {
-         "Exercise":"alternate hammer curl",
-         "Descriptions":"1) lay on the bench 2) press the desired weight",
-         "Secondary":"Forearms",
-         "link":"chest/benchPress.htm"
-      },
-      {
-         "Exercise":"alternate incline dumbbell curl",
          "Descriptions":"1) lay on the bench 2) press the desired weight",
          "Secondary":"Forearms",
          "link":"chest/benchPress.htm"
@@ -592,12 +562,6 @@
       }
    ],
    "chest":[
-      {
-         "Exercise":"alternating floor press",
-         "Descriptions":"1) lay on the bench 2) press the desired weight",
-         "Secondary":"Forearms",
-         "link":"chest/benchPress.htm"
-      },
       {
          "Exercise":"alternating floor press",
          "Descriptions":"1) lay on the bench 2) press the desired weight",
@@ -950,12 +914,6 @@
       }
    ],
    "glutes":[
-      {
-         "Exercise":"ankle on the knee",
-         "Descriptions":"1) lay on the bench 2) press the desired weight",
-         "Secondary":"Forearms",
-         "link":"chest/benchPress.htm"
-      },
       {
          "Exercise":"ankle on the knee",
          "Descriptions":"1) lay on the bench 2) press the desired weight",
@@ -1359,18 +1317,6 @@
          "link":"chest/benchPress.htm"
       },
       {
-         "Exercise":"atlas stone trainer",
-         "Descriptions":"1) lay on the bench 2) press the desired weight",
-         "Secondary":"Forearms",
-         "link":"chest/benchPress.htm"
-      },
-      {
-         "Exercise":"axle deadlift",
-         "Descriptions":"1) lay on the bench 2) press the desired weight",
-         "Secondary":"Forearms",
-         "link":"chest/benchPress.htm"
-      },
-      {
          "Exercise":"axle deadlift",
          "Descriptions":"1) lay on the bench 2) press the desired weight",
          "Secondary":"Forearms",
@@ -1480,12 +1426,6 @@
       }
    ],
    "middle back":[
-      {
-         "Exercise":"alternating renegade row",
-         "Descriptions":"1) lay on the bench 2) press the desired weight",
-         "Secondary":"Forearms",
-         "link":"chest/benchPress.htm"
-      },
       {
          "Exercise":"alternating renegade row",
          "Descriptions":"1) lay on the bench 2) press the desired weight",
@@ -2040,18 +1980,6 @@
    "shoulders":[
       {
          "Exercise":"alternating cable shoulder press",
-         "Descriptions":"1) lay on the bench 2) press the desired weight",
-         "Secondary":"Forearms",
-         "link":"chest/benchPress.htm"
-      },
-      {
-         "Exercise":"alternating cable shoulder press",
-         "Descriptions":"1) lay on the bench 2) press the desired weight",
-         "Secondary":"Forearms",
-         "link":"chest/benchPress.htm"
-      },
-      {
-         "Exercise":"alternating kettlebell press",
          "Descriptions":"1) lay on the bench 2) press the desired weight",
          "Secondary":"Forearms",
          "link":"chest/benchPress.htm"

@@ -1,11 +1,17 @@
-$.getJSON("arms.json",function(data){
-    console.log(data);
+function exerciseList(data) { 
+    var ul = document.getElementById("list"), str;
+    
+    for (var i=0; i<data.Arms.length; i++)
+        {
+            str=data.Arms[i].Exercise;
+            var li= document.createElement("li");  //create a new item for the list
+            //set the item to the ith exercise from our json database
+            li.innerHTML=str.link(data.Arms[i].link) + " Secondary muscle: " + " " + data.Arms[i].Secondary + " " + data.Arms[i].Descriptions;
+            ul.appendChild(li); // add that item to the unordered list
+        }
+}
 
-    var str= data.Arms[0].Exercise;
-    document.getElementById("Arms").innerHTML =str.link(data.Arms[0].link) + " " + data.Arms[0].Descriptions + " Secondary muscle: " + data.Arms[0].Secondary;
-    
-    str= data.Arms[1].Exercise;
-    document.getElementById("Arms1").innerHTML =str.link(data.Arms[1].link) + " " + data.Arms[1].Descriptions + " Secondary muscle: " + data.Arms[1].Secondary;
-    
-    
+$.getJSON("Arms.json",function(data){
+
+    exerciseList(data);
 });
