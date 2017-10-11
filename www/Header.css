@@ -16,6 +16,7 @@ header{
 header>h1{
     color:White;
 }
+
 #banner{
     background:url(https://media.giphy.com/media/df9PH5lZbnHlC/giphy.gif);
     background-size:cover;
@@ -23,6 +24,20 @@ header>h1{
     height:900px;
     position:fixed;
     top:100px;
+}
+#banner>h2{
+    /* The Best Fitness Website in Town*/
+    left: 0;
+    line-height: 200px;
+    color:white;
+    font-size:96;
+    text-shadow: -2px 0 black, 1px 0 black, 0 -2px black;
+    margin: auto;
+    margin-top: -100px;
+    position: absolute;
+    top: 50%;
+    width: 100%;
+    
 }
 #content{
     
