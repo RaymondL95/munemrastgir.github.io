@@ -7,17 +7,17 @@
 
 header{
     height:100px;
-    background:#dbdbdb;
+    background:black;
+
     width:100%;
     z-index:10;
     position:fixed;
 }
 header>h1{
-    opacity: 50%;
-    color:Black;
+    color:White;
 }
 #banner{
-    background:url(http://www.goldsgym.com/losangelesdtca/wp-content/uploads/sites/505/2016/08/golds-gym-downtown-la-ca-weight-training.jpg);
+    background:url(https://media.giphy.com/media/df9PH5lZbnHlC/giphy.gif);
     background-size:cover;
     width:100%;
     height:700px;
