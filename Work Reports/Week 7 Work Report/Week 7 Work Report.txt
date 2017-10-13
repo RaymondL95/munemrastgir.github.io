@@ -12,13 +12,24 @@ From last week:
 [x]Fixed format of page titles
 [x] added json and json to webpage.
 Added mid-week:
-
+[ ] Add more javascript functionality.
+[x ] Created Header.css for collapsing header.
+	[x] Added .gif files
+	[x] Centered Banner Text
+[x] Copied over BMI calculator to Calculators.htm
 For this week:
 [ ] find ways to highlight body on other browsers.
-[ ] populate json files.
-[ ] Create Additional UI for website
-For next week:
 
+[x] Added Class for unordered list
+	[x] Updated Navigation Bar.
+[x ] Create Additional UI for website
+[x] Linked all Calculators to the website.
+	
+
+For next week:
+[ ] Create Additional UI for website
+[ ] Add Supplements.htm
+[ ] Create more functionality with javascript
 
 ============================================================
 ============================================================
