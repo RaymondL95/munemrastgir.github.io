@@ -50,7 +50,8 @@ For this week:
 [ ] Create additional UI for website
 
 For next week:
-
+[ ] Create Additional UI for website
+[ ] 
 
 ============================================================
 ============================================================
@@ -62,13 +63,17 @@ From last week:
 [x] Create a BMI calculator on the index page
 For this week:
 [] Research methods of highlighting objects on other browsers
-[] Think of more design elements and features to add onto site
-[] Make head of body clickable to link to a tips and knwoledge section
+[X] Think of more design elements and features to add onto site
+[X] Make head of body clickable to link to a tips and knwoledge section
 Added mid-week:
-
+[X] Created a nutrition page for popular diet info
+[X] Created a select-box that brings up pictures and text of what is selected
+[X] linked some pages to the navigation bar
 
 For next week:
-
+[] Add more diets to the nutrition page
+[] Write more decriptions for database
+[] Find videos to add to site
 ============================================================
 ============================================================
 Christopher Mayol’s work
