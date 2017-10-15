@@ -29,6 +29,7 @@ For this week:
 For next week:
 [ ] Create Additional UI for website
 [ ] Add Supplements.htm
+	[ ]Include list of supplements,etc
 [ ] Create more functionality with javascript
 
 ============================================================
