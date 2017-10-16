@@ -1,4 +1,4 @@
-﻿October 9th
+October 9th
 “Fitness-Web”
 
 Raymond Leung’s work
@@ -42,16 +42,17 @@ From last week:
 [x] created JSON file for individual body part
 [x] Created js file for displaying JSON file
 Added mid-week:
-
-
+[x] added more clickable areas
+[x] modified abs JSON file
 For this week:
-[ ] populate JSON files
-[ ] Display JSON files differently on htm file
-[ ] Create additional UI for website
-
+[X] Create additional UI for website
+[x] Create Calculator.htm page
+    [x] added 1RM calculator formula and input options
+    [x] linked calculator.htm to dropdown menu and to index.htm
 For next week:
 [ ] Create Additional UI for website
-[ ] 
+[ ] add TDEE calculator
+[ ] add information relating TDEE to nutrient.htm and calculator.htm
 
 ============================================================
 ============================================================
