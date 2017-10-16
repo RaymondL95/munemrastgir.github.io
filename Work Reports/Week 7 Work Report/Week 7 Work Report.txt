@@ -65,7 +65,7 @@ From last week:
 For this week:
 [] Research methods of highlighting objects on other browsers
 [X] Think of more design elements and features to add onto site
-[X] Make head of body clickable to link to a tips and knwoledge section
+[X] Make head of body clickable to link to a tips and knowledge section
 Added mid-week:
 [X] Created a nutrition page for popular diet info
 [X] Created a select-box that brings up pictures and text of what is selected
@@ -97,7 +97,7 @@ For this week:
 
 For next week:
 [] generate a page based on a given exercise and it's data
-[]	work on the websited design
+[]	work on the website design
 []	implement the searching function to the searchbox
 []  re-write the descriptions for exercises on the json files
 []	implement serverbased node.js to replace client-side database
