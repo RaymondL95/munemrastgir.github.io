@@ -1,0 +1,92 @@
+﻿October 9th
+“Fitness-Web”
+
+Raymond Leung’s work
+
+From last week:
+[x ] Created Header.css for collapsing header.
+	[x] Added .gif files
+	[x] Centered Banner Text
+[x] Copied over BMI calculator to Calculators.htm
+[x] Added Class for unordered list
+	[x] Updated Navigation Bar.
+[x ] Create Additional UI for website
+[x] Linked all Calculators to the website.
+Added mid-week:
+
+For this week:
+[ ] find ways to highlight body on other browsers.
+[ ] Add more javascript functionality.
+[ ] Create Additional UI for website
+[ ] Add Supplements.htm
+	[ ]Include list of supplements,etc
+[ ] Create more functionality with javascript
+
+
+	
+
+For next week:
+
+
+============================================================
+============================================================
+Shi Li Liang’s work
+From last week:
+[X] Create additional UI for website
+[x] Create Calculator.htm page
+    [x] added 1RM calculator formula and input options
+    [x] linked calculator.htm to dropdown menu and to index.htm
+[x] added more clickable areas
+[x] modified abs JSON file
+Added mid-week:
+
+For this week:
+[ ] Create Additional UI for website
+[ ] add TDEE calculator
+[ ] add information relating TDEE to nutrient.htm and calculator.htm
+For next week:
+
+
+============================================================
+============================================================
+Munem Rastgir’s work
+From last week:
+[X] Think of more design elements and features to add onto site
+[X] Make head of body clickable to link to a tips and knowledge section
+[X] Created a nutrition page for popular diet info
+[X] Created a select-box that brings up pictures and text of what is selected
+[X] linked some pages to the navigation bar
+For this week:
+[] Research methods of highlighting objects on other browsers
+[] Add more diets to the nutrition page
+[] Write more decriptions for database
+[] Find videos to add to site
+Added mid-week:
+
+
+For next week:
+
+============================================================
+============================================================
+Christopher Mayol’s work
+From last week:
+[x] use javascript to automatically display the list of exercises in our json file
+[x] do more research for node.js, js, html
+[x] find and fix issues in our website
+[x] update the json parser with our desire changes
+Added mid-week:
+
+
+For this week:
+
+[] generate a page based on a given exercise and it's data
+[]	work on the website design
+[]	implement the searching function to the searchbox
+[]  re-write the descriptions for exercises on the json files
+[]	implement serverbased node.js to replace client-side database
+
+For next week:
+
+
+
+
