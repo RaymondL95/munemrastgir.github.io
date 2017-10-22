@@ -18,7 +18,6 @@ Added mid-week:
 [ ] Add Tips.htm
 For this week:
 [ ] find ways to highlight body on other browsers.
-[ ] Add more javascript functionality.
 [x] Create Additional UI for website
 [x] Add Supplements.htm
 	[x]Include list of supplements,etc
@@ -28,8 +27,11 @@ For this week:
 	
 
 For next week:
-
-
+[ ] Create Workoutplans.htm
+	[ ] Find workout plans to populate the webpage
+[ ]Populate Tips.htm
+[ ] Create more functionality with javascript
+[ ] Additional UI
 ============================================================
 ============================================================
 Shi Li Liang’s work
