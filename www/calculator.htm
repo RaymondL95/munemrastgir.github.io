@@ -45,6 +45,28 @@
 
 <h1 style="text-align: center;">Calculator</h1>
     
+<h2>Redo 1RM Calculator</h2>
+    <p>Please enter the weight in lb and number of reps</p>
+    <form name="1rm">
+    weight:<input type="text" name="weight">
+    <br>
+    reps:<input type="text" name="reps">
+    <br>
+    max:<input type="text" name="max">
+    <input type="button" value="calculate" onClick="1rmFunction()">
+    </form>
+    <script language="javascript">
+    function 1rmFunction(){
+        int x, y, z;
+        x = document.1rm.weight.value;
+        y = document.1rm.reps.value;
+        z = x + y;
+        document.1rm.max.value = z;
+    }
+    </script>
+    
+
+    
 <div data-ng-app="" data-ng-init="weight=100;reps=6">
 
     <h2>1 Rep Max</h2>
@@ -59,7 +81,9 @@
     
     <p><b>Wendler Formula:</b> {{(weight * reps * 0.0333) + (weight)}}</p>
     
+    <h2>TDEE Calculator</h2>
     
+    <p><a href="nutrition.htm">Click here to find out more about TDEE</a></p>
     <div data-ng-app="" data-ng-init="weight=100;height=65">
 
             <h2>BMI Calculator</h2>
