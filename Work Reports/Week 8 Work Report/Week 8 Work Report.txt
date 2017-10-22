@@ -1,4 +1,4 @@
-﻿October 9th
+﻿October 16th
 “Fitness-Web”
 
 Raymond Leung’s work
@@ -13,13 +13,15 @@ From last week:
 [x ] Create Additional UI for website
 [x] Linked all Calculators to the website.
 Added mid-week:
-
+[x]Added images to supplements.
+[ ] Add text for each supplement
+[ ] Add Tips.htm
 For this week:
 [ ] find ways to highlight body on other browsers.
 [ ] Add more javascript functionality.
-[ ] Create Additional UI for website
-[ ] Add Supplements.htm
-	[ ]Include list of supplements,etc
+[x] Create Additional UI for website
+[x] Add Supplements.htm
+	[x]Include list of supplements,etc
 [ ] Create more functionality with javascript
 
 
