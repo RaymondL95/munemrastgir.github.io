@@ -59,6 +59,8 @@ Epley Formula: <input type="text" name="epley1">
 Brzycki Formula: <input type="text" name="brzycki1">
 <br>
 Wendler Formula: <input type="text" name="wendler1">
+<br>
+<input type="button" value="Reset" onClick="myReset()">
 <input type="button" value="calculate" onClick="myFunction()">
 </form>
     
@@ -72,7 +74,14 @@ function myFunction(){
     document.epley.brzycki1.value = Math.round(x/(1.0278-(0.0278*y)));
     document.epley.wendler1.value = Math.round((x*y*0.0333)+x);
     
-}    
+}
+function myReset(){
+    document.epley.weight1.value = "";
+    document.epley.rep1.value ="";
+    document.epley.epley1.value="";
+    document.epley.brzycki1.value="";
+    document.epley.wendler1.value="";
+}
     
 </script>
 </div>
