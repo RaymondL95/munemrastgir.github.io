@@ -86,12 +86,15 @@ Added mid-week:
 For this week:
 
 [] generate a page based on a given exercise and it's data
-[]	work on the website design
+[x]	work on the website design
 []	implement the searching function to the searchbox
-[]  re-write the descriptions for exercises on the json files
+[x]  re-write the descriptions for exercises on the json files
 []	implement serverbased node.js to replace client-side database
 
 For next week:
+[]  generate a page based on a given exercise and it's data
+[]	implement the searching function to the searchbox
+[]	implement serverbased node.js to replace client-side database
 
 
 
