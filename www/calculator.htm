@@ -45,6 +45,50 @@
 
 <h1 style="text-align: center;">Calculator</h1>
     
+<div>
+<html>
+<body>
+<form name="epley">
+<p>Click calculate button to find your 1RM</p>
+weight: <input type="text" id="weight" name="weight1">
+<br>
+Rep: <input type="text" id="rep" name="rep1">
+<br>
+Epley Formula: <input type="text" name="epley1">
+<br>
+Brzycki Formula: <input type="text" name="brzycki1">
+<br>
+Wendler Formula: <input type="text" name="wendler1">
+<input type="button" value="calculate" onClick="myFunction()">
+</form>
+    
+<script language="javascript">
+function myFunction(){
+    var x, y, z;
+    x = Number(document.epley.weight1.value);
+    y = Number(document.epley.rep1.value);
+    
+    document.epley.epley1.value = Math.round(x*(1+(y/30)));
+    document.epley.brzycki1.value = Math.round(x/(1.0278-(0.0278*y)));
+    document.epley.wendler1.value = Math.round((x*y*0.0333)+x);
+    
+}    
+    
+</script>
+    </div>
+    
+<script>
+    function myfunction(){
+        var x = document.getElementById("weight").value;
+        var y = document.getElementById("rep").value;
+        var z = +x + +y;
+        document.getElementById("demo").innerHTML = z;
+    }
+</script>
+</body>
+</html>    
+</div>    
+    
 <h2>Redo 1RM Calculator</h2>
     <p>Please enter the weight in lb and number of reps</p>
     <form name="1rm">
@@ -64,7 +108,69 @@
         document.1rm.max.value = z;
     }
     </script>
-    
+<div>
+    <head>
+<script type="text/javascript">
+    window.onload=function(){
+        weightObj = document.getElementById('txtWeight');
+        repObj = document.getElementById('txtRep');
+        epleyObj = document.getElementById('tdEpley');
+        brzyckiObj = document.getElementById('tdBrzycki');
+        wendlerObj = document.getElementById('tdWendler');
+        document.getElementById('btnReset').onclick = resetInputs;
+        document.getElementById('btnCalc').onclick = calcEpley;
+        
+    }
+    function reseInputs(){
+        weightObj.value = '1';
+        repObj.value = '1';
+        epleyObj.innerHTML = '1';
+        brzyckiObj.innerHTML = '1';
+        wendlerObj.innerHTML = '1';
+    }
+    function calcEpley(){
+        var weight = new Number(weightObj.value);
+        var rep = new Number(repObj.value);
+        epleyObj.innerHTML = '';
+        if(isNaN(weight) || isNaN(rep)){
+            alert('Invalid weight or rep');
+            return;
+        }
+        epleyObj.innerHTML = weight*(1 + (rep/30));
+    }
+
+    </script> 
+    </head>
+    <body>
+        <table>
+            <tr>
+                <td><label for="txtWeight">weight (lb):</label></td>
+                <td><label type="text" id="txtWeight" /></td>
+            </tr>
+            <tr>
+                <td><label for="txtRep"> rep (number): </label> </td>
+                <td><label type="text" id="txtRep" /></td>
+            </tr>
+            <tr>
+                <td>Epley Formula:</td>
+                <td id="tdEpley"></td>
+            </tr>
+            <tr>
+                <td>Brzycki Formula:</td>
+                <td id="tdBrzycki"></td>
+            </tr>
+            <tr>
+                <td>Wendler Formula:</td>
+                <td id="tdWendler"></td>
+            </tr>
+            <tr>
+                <td></td>
+                <td><button id="btnReset">Reset</button><button id="btnCalc">Calculate</button></td>
+            </tr>
+        </table>
+    </body>
+    </html>
+</div>
 
     
 <div data-ng-app="" data-ng-init="weight=100;reps=6">
