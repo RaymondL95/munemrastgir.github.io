@@ -61,15 +61,16 @@ From last week:
 [X] Created a select-box that brings up pictures and text of what is selected
 [X] linked some pages to the navigation bar
 For this week:
-[] Research methods of highlighting objects on other browsers
-[] Add more diets to the nutrition page
-[] Write more decriptions for database
+[X] Add more diets to the nutrition page
+[X] Write more decriptions for database
 [] Find videos to add to site
 Added mid-week:
-
+[] Compile images for website design
+[] Modify exercises in the abs page
 
 For next week:
-
+[] Further improve visual design of supplementary web pages
+[] Add new features using Javascript
 ============================================================
 ============================================================
 Christopher Mayol’s work
