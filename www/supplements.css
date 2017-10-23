@@ -8,16 +8,79 @@ body{
     width:100%;
     
 }
-
+p{
+    text-indent: 50px;
+}
+.center{
+    margin:auto;
+    width:60%;
+    padding:10px;
+    line-height:135%;
+}
 #supplementList{
    
 }
 #supplementList>protein>p{
- 
+margin:auto;
+width:60%;
+padding:10px;
 position:relative;
     top:-200px;
-    left: 220px;
+    left: 0px;
+    line-height: 135%;
 }
-protein{
 
+#supplementList>creatine>p{
+margin:auto;
+    width:60%;
+    padding:10px;
+    position:relative;
+    top: -200px;
+    left:0px;
+    line-height:135%;
+}
+#supplementList>amino_acids>p{
+margin:auto;
+    width:60%;
+    padding:10px;
+    position:relative;
+    top: -200px;
+    left:0px;
+    line-height:135%;
+}
+#supplementList>multi_vitamins>p{
+margin:auto;
+    width:60%;
+    padding:10px;
+    position:relative;
+    top: -200px;
+    left:0px;
+    line-height:135%;
+}
+#supplementList>fish_oil>p{
+margin:auto;
+    width:60%;
+    padding:10px;
+    position:relative;
+    top: -200px;
+    left:0px;
+    line-height:135%;
+}
+#supplementList>bcaa>p{
+margin:auto;
+    width:60%;
+    padding:10px;
+    position:relative;
+    top: -200px;
+    left:0px;
+    line-height:135%;
+}
+#supplementList>pre_workout>p{
+margin:auto;
+    width:60%;
+    padding:10px;
+    position:relative;
+    top: -200px;
+    left:0px;
+    line-height:135%;
 }
