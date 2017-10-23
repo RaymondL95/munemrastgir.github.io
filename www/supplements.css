@@ -12,9 +12,11 @@ body{
 #supplementList{
    
 }
-#supplementList{
-    
-    margin-bottom: 20px;
+#supplementList>protein>p{
+ 
+position:relative;
+    top:-200px;
+    left: 220px;
 }
 protein{
 
