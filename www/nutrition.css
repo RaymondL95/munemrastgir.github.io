@@ -1,0 +1,16 @@
+h1{
+    color: red;
+    margin-left: 20px;
+    text-decoration: underline
+}
+
+h3{
+    font-family:"Georgia";
+    font-size: 28;
+    text-align: center;
+    color:olive
+}
+.center {
+    margin: 25px;
+    width: 70%;
+}

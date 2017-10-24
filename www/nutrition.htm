@@ -3,6 +3,7 @@
 <META NAME="GENERATOR" Content="Microsoft Visual Studio">
     <TITLE>Nutrition</TITLE>
     <link rel="stylesheet" type="text/css" href="style.css">
+    <link rel="stylesheet" type="text/css" href="nutrition.css">
     <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.6.4/angular.min.js"></script>
     <script type="text/javascript">
     function dropdownTip(value){
@@ -57,17 +58,20 @@
 
 <br/>
 <br/>
+<h3>What Diet is right for me?</h3>
+        
+<p style = "padding-left: 300px;">
+   <img src="https://www.fsis.usda.gov/wps/wcm/connect/520d8cc4-75ed-4fa3-ac6e-d2d95a969321/Food_Prep_Counter_hi.jpg?MOD=AJPERES" style="width: 700px; height: 400px"/></p>
+        
 <h1>Ketogenic Diet</h1>
-        <p1>
+        <div class="center">
+        <p>
             Gets your body into ketosis which means the body’s primary energy source is fats instead of sugar.
             Results in high weight loss because more fats will be burned than normal. 70-75% calories from fat, 15-20% calories from protein and 5-10% calories from carbohydrates. Need to wait a few days to get used to this new nutrition plan and then wait a few weeks to fully enter the ketosis state.
 
-        </p1>
-
+        </p>
+        </div>
     
-
-
-
         <div>
             <select id="imgList">
                 <option value="https://prod-dietdoctor-d3xpwb8eqyot4ma5.stackpathdns.com/wp-content/uploads/2016/06/Keto2-1-1200x616.jpg" data-description="KETO">Keto Food Options</option>
@@ -85,7 +89,7 @@
             </select>
         </div>
 
-        <img id="image" class="img" src="http://static1.squarespace.com/static/536ae170e4b0610483538ec5/t/54832c2ae4b04d71ee58f7fe/1506120469490/" height="100" width="150" />
+        <img id="image" class="img" src="http://static1.squarespace.com/static/536ae170e4b0610483538ec5/t/54832c2ae4b04d71ee58f7fe/1506120469490/" height="100" width="150" style="float: left;"/>
         <p id="text"></p>
         
         <br />
@@ -103,13 +107,6 @@
     }
 
     document.getElementById("imgList").onchange = setClass;
-</script>
-<div>
-<h1>Total Daily Energy Expenditure (TDEE)</h1>
-<p1>TDEE calculator gives an estimation of how many calories you burn per day when activity level is factor in. The first step is to calculate your Basal Metabolic Rate (BMR), then multiply it by an activity level multipler.
-<p><a href="calculator.htm">Click here to calculate your TDEE</a></p></p1>
-        
-</div>
-
+        </script>
     </BODY>
 </HTML>
