@@ -10,21 +10,21 @@ body{
     //Make Nav Bar Top layer;
      position:relative;
     z-index: 999;
-    background-color: gray;
+    background-color: skyblue;
     color: #ffffff;
     list-style: none;
     text-align: center;
     text-transform: uppercase;
     margin: 0px;
     padding: 0px 0 40px 0;
-    
+    opacity: .9;
     
 }
 .nav >li {
     float:left;
     width:130px;
     height:40px;
-    background-color:gray;
+    background-color:skyblue;
     /* Do not Change Opacity */
     opacity:.8;
     line-height:40px;
@@ -56,7 +56,7 @@ body{
 /* Display Dropdown on mouse-over */
 .nav>li:hover ul>li{
     display:block;
-    font-size: 12px;
+    font-size: 8px;
     background-color:gray;
 
 }
