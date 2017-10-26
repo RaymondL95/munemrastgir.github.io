@@ -101,7 +101,7 @@ function myReset(){
         <input type="text" name="weight" id="weight"/>
         <br>
         Height(inches) 
-        <input type="number" name="height" id="height"/>
+        <input type="text" name="height" id="height"/>
         <br>
         Activity 
         <select id="activity" name="activity" onchange="myFunction()">
@@ -112,6 +112,13 @@ function myReset(){
         <option value="ver">Very Active</option>
         <option value="ext">Extremely Active</option>
         </select>
+        <br>
+        
+        <input type="button" value="calculate" onClick="getTdee()">
+        <div id="totalTdee"></div>
+        </fieldset>
+    </form>
+    
         <script>
         var genChoice = new Array();
         genChoice["male"]=66;
@@ -119,7 +126,7 @@ function myReset(){
         
         function getAge(){
             var theForm = document.forms["tdee"];
-            var age = theForm.element["age"];
+            var age = theForm.elements["age"];
             var ag =0;
             if(height.value!=0){
                 ag = parseInt(age.value);
@@ -134,9 +141,9 @@ function myReset(){
         var theForm = document.forms["tdee"];
         var selectedGender =theForm.elements["gender"];
         
-        for(var i = 0; i <gender.length(); i++){
+        for(var i = 0; i <selectedGender.length; i++){
             if(selectedGender[i].checked){
-            gen = genChoice[gender[i].value];
+            gen = genChoice[selectedGender[i].value];
             break;
             }
         }
@@ -155,38 +162,47 @@ function myReset(){
         function getActivity(){
             var act=0;
             var theForm = document.forms["tdee"];
-            var selectedActivity = theForm.element[activity];
+            var selectedActivity = theForm.elements["activity"];
             act = activity_level[selectedActivity.value];
             return act;
         }
         
         function getWeight(){
             var theForm = document.forms["tdee"];
-            var weight = theForm.element["weight"];
+            var weight = theForm.elements["weight"];
             var wei =0;
             if(weight.value!=""){
-                wei = parseInt(weight.value);
+                wei = parseInt(weight.value)/2.2046226218;
             }
             return wei;
         }
         function getHeight(){
             var theForm = document.forms["tdee"];
-            var height = theForm.element["height"];
+            var height = theForm.elements["height"];
             var hei =0;
             if(height.value!=0){
-                hei = parseInt(height.value);
+                hei = parseInt(height.value)*2.54;
             }
             return hei;
         }
         
         function getTdee(){
-            var tdee = getGender()
-            <--! remember to convert height to cm and weight to kg -->
+
+            if(getGender() == 655){
+                
+                tdee = (getGender() + (9.6*getWeight()) + (1.8*getHeight() - (4.7*getAge())))*getActivity();
+            }
+            else if(getGender() == 66){
+                
+                tdee = (getGender() + (13.7*getWeight()) + (5*getHeight() - (6.8*getAge())))*getActivity();
+            }
+            
+            document.getElementById('totalTdee').innerHTML = "Total TDEE is "+Math.round(tdee);
+    
         }
         </script>
-    
-    </fieldset>
-</form>
+        
+   
 </div>
     
 <div>
