@@ -14,3 +14,12 @@ h3{
     margin: 25px;
     width: 70%;
 }
+
+.bold{
+    font-weight: bold;
+}
+.move{
+    position: relative;
+    top:-18px;
+    left: 90px;
+}

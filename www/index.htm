@@ -65,7 +65,7 @@
             Weight: <input type="number" ng-model="weight">
             Height: <input type="number" ng-model="height">
 
-            <p><b>BMI:</b> {{((weight * .45)/(height*.025))/(height*.025)}}</p>
+            <p><b>BMI:</b> {{((weight * .45)/(height*.025))/(height*.025)|number:2}}</p>
                 <!-- BMI Chart -->
             <img src= "https://i.imgur.com/fap6Xuw.png" img>
 
