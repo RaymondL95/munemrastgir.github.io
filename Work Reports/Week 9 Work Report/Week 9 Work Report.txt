@@ -1,0 +1,95 @@
+﻿October 23rd
+“Fitness-Web”
+
+Raymond Leung’s work
+
+From last week:
+[x] Create Additional UI for website
+[x] Add Supplements.htm
+	[x]Include list of supplements,etc
+[x]Added images to supplements.
+
+Added mid-week:
+[ ] Social Media api
+[ ]Populate Tips.htm
+
+For this week:
+[x] Add text for each supplement
+	[x] css for supplements
+[x ] Add Tips.htm
+	[x] css for Tips.htm
+[ ] Create Workoutplans.htm
+	[ ] Find workout plans to populate the webpage
+[ ] Create more functionality with javascript
+[x] Additional UI
+
+For next week:
+[ ] find ways to highlight body on other browsers.
+[ ] Create more functionality with javascript
+============================================================
+============================================================
+Shi Li Liang’s work
+From last week:
+[x] Create Additional UI for website
+   [x] added more contents for supplement.htm
+   [x] added more contents for Nutrition.htm
+   [x] modifying 1rm calculator for calculator.htm 
+[x] add information relating TDEE to nutrition.htm and calculator.htm
+[x] researched on TDEE calculator 
+[x] linked nutrition.htm and calculator.htm for TDEE and more information
+Added mid-week:
+
+For this week:
+
+For next week:
+[ ] Create Additional UI for website
+[ ] create a TDEE calculator
+[ ] finish modify 1rm calculator with javascript
+
+============================================================
+============================================================
+Munem Rastgir’s work
+From last week:
+[X] Think of more design elements and features to add onto site
+[X] Make head of body clickable to link to a tips and knowledge section
+[X] Created a nutrition page for popular diet info
+[X] Created a select-box that brings up pictures and text of what is selected
+[X] linked some pages to the navigation bar
+For this week:
+[X] Add more diets to the nutrition page
+[X] Write more decriptions for database
+[] Find videos to add to site
+Added mid-week:
+[] Compile images for website design
+[] Modify exercises in the abs page
+
+For next week:
+[] Further improve visual design of supplementary web pages
+[] Add new features using Javascript
+============================================================
+============================================================
+Christopher Mayol’s work
+From last week:
+[x] use javascript to automatically display the list of exercises in our json file
+[x] do more research for node.js, js, html
+[x] find and fix issues in our website
+[x] update the json parser with our desire changes
+Added mid-week:
+
+
+For this week:
+
+[] generate a page based on a given exercise and it's data
+[x]	work on the website design
+[]	implement the searching function to the searchbox
+[x]  re-write the descriptions for exercises on the json files
+[]	implement serverbased node.js to replace client-side database
+
+For next week:
+[]  generate a page based on a given exercise and it's data
+[]	implement the searching function to the searchbox
+[]	implement serverbased node.js to replace client-side database
+
+
+
+
