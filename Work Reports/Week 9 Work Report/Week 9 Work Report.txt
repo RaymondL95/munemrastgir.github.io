@@ -56,15 +56,16 @@ From last week:
 [X] Created a select-box that brings up pictures and text of what is selected
 [X] linked some pages to the navigation bar
 For this week:
-[X] Add more diets to the nutrition page
-[X] Write more decriptions for database
+[X] Update nutrition page layout
+[x] Fix calculators to round using angularjs
 [] Find videos to add to site
 Added mid-week:
-[] Compile images for website design
 [] Modify exercises in the abs page
+[] Add tips page
+[] Make nutrition page have a list of articles users can navigate to
 
 For next week:
-[] Further improve visual design of supplementary web pages
+[] Add article system to other webpages
 [] Add new features using Javascript
 ============================================================
 ============================================================
