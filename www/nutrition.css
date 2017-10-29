@@ -23,3 +23,26 @@ h3{
     top:-18px;
     left: 90px;
 }
+
+.move2{
+   position: relative;
+    top:-18px;
+    left: 94px; 
+}
+
+.move3{
+    position: relative;
+    top:-18px;
+    left: 108px; 
+}
+
+.move4{
+    position: relative;
+    top:-18px;
+    left: 117px; 
+}
+
+.move5{
+    position: relative;
+    left: 20px; 
+}
