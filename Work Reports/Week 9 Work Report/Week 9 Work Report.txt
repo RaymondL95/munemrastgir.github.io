@@ -1,4 +1,4 @@
-﻿October 23rd
+October 23rd
 “Fitness-Web”
 
 Raymond Leung’s work
@@ -30,22 +30,16 @@ For next week:
 ============================================================
 Shi Li Liang’s work
 From last week:
-[x] Create Additional UI for website
-   [x] added more contents for supplement.htm
-   [x] added more contents for Nutrition.htm
-   [x] modifying 1rm calculator for calculator.htm 
-[x] add information relating TDEE to nutrition.htm and calculator.htm
-[x] researched on TDEE calculator 
-[x] linked nutrition.htm and calculator.htm for TDEE and more information
+[x] create a TDEE calculator
+[x] finish modify 1rm calculator with javascript
+   [x] added reset button for 1rm calculator
 Added mid-week:
 
 For this week:
 
 For next week:
-[ ] Create Additional UI for website
-[ ] create a TDEE calculator
-[ ] finish modify 1rm calculator with javascript
-
+[ ] add information about TDEE to nutrition.htm
+[ ] add workout plans to the website
 ============================================================
 ============================================================
 Munem Rastgir’s work
