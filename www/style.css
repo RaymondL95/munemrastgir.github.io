@@ -126,7 +126,9 @@ iframe{
     display:block;
     margin:auto;
 }
+
+/*loader css */
 .genStyle{
     background-color:black;
-    color:darkred;
+    color:white;
 }
