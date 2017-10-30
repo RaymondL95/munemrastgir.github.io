@@ -44,6 +44,11 @@ header>h1{
     width:100%;
     position:relative;
     top:1000px;
+    
     background:white;
-    height:2000px;
+    height:950px;
+}
+#content>img{
+    position:relative;
+    left:-400px;
 }
