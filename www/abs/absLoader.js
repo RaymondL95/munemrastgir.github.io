@@ -6,30 +6,45 @@ function exerciseList(data) {
         {
             str=data.abs[i].Exercise;
             var li= document.createElement("li");  //create a new item for the list
+            li.setAttribute("id",i);
             //set the item to the ith exercise from our json database
-            li.innerHTML=str.link(data.abs[i].link) + " Secondary muscle: " + " " + data.abs[i].Secondary + " " + data.abs[i].Descriptions;
+            li.innerHTML=str;
             ul.appendChild(li); // add that item to the unordered list
         }
 }
 
+function exerciseLoader(data){
+    
+    $(document).ready(function(){
+    $(".exercises li").click(function(){
+        var listNum= $(this).attr("id");
+        $("h2").text(data.abs[listNum].Exercise);
+    
+        var h3=document.getElementById("desc");
+        h3.innerHTML=data.abs[listNum].Descriptions;
+        h3.setAttribute("style","text-align: center");
+        $("#desc").replaceWith(h3);
+        
+        if($("iframe").length==0)
+            {
+                var v=document.createElement("iframe"); 
+                $(v).attr({"style":"text-align: center","width":760,"height":505,"src":data.abs[listNum].link,"frameborder":0,"allowfullscreen":0});
+                $(v).appendTo("#gen");
+            }
+        else{
+            var v=document.getElementsByTagName("iframe"); 
+            $(v).attr({"style":"text-align: center","width":760,"height":505,"src":data.abs[listNum].link,"frameborder":0,"allowfullscreen":0});
+            $("iframe").replaceWith(v);
+        }
+            
+    });
+});
+    
+    
+}
 $.getJSON("abs.json",function(data){
 
     exerciseList(data);
-    //document.getElementById("h2").setAttribute("type","button");
-    //document.getElementById("h2").onclick=exerciseLoader(data);
-    //document.getElementById("h2").addEventListener("mouseover", exerciseLoader(data));    
-    
-});
-
-
-$.getJSON("abs.json",function(data){
-    console.log(data);
-
-    var str= data.Abs[0].Exercise;
-    document.getElementById("Abs").innerHTML =str.link(data.Abs[0].link) + " " + data.Abs[0].Descriptions;
-    
-    str= data.Abs[1].Exercise;
-    document.getElementById("Abs1").innerHTML =str.link(data.Abs[1].link) + " " + data.Abs[1].Descriptions;
-    
+    exerciseLoader(data);
     
 });

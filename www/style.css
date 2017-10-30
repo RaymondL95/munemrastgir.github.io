@@ -122,4 +122,11 @@ body{
     top: -752px;
     pointer-events: none;
 }
-
+iframe{
+    display:block;
+    margin:auto;
+}
+.genStyle{
+    background-color:black;
+    color:darkred;
+}
