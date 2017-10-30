@@ -41,7 +41,7 @@ function exerciseLoader(data){
     
     
 }
-$.getJSON("Arms.json",function(data){
+$.getJSON("arms.json",function(data){
 
     exerciseList(data);
     exerciseLoader(data);
