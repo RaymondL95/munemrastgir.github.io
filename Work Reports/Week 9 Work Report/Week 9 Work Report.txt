@@ -79,17 +79,25 @@ Added mid-week:
 
 
 For this week:
-
-[] generate a page based on a given exercise and it's data
+[x] added jquery to help simplify javascript code
+[x] research and use jquery and javascript DOM manipulation
+[x] generate html tags based on a given exercise and it's data
+[x] research and use event listeners for both jquery and javascript
 [x]	work on the website design
-[]	implement the searching function to the searchbox
+[x]	work on implementation of the searching function for the searchbox
 [x]  re-write the descriptions for exercises on the json files
-[]	implement serverbased node.js to replace client-side database
+[x]	research serverbased node.js to replace client-side database
+[x]	The ability to embed videos to our workout pages based on the links of the exercises in the json database
+[x]	Added more video links for exercises. note: This will take a long time to fully complete because we have over 900+ exercises 
 
 For next week:
-[]  generate a page based on a given exercise and it's data
-[]	implement the searching function to the searchbox
-[]	implement serverbased node.js to replace client-side database
+[]	research node.js
+[]	research more on javascript and jquery
+[]  work on the implementation of serverbased node.js 
+[]	work on the implementation the searching function for the searchbox
+[]	add some css styles for some tags to make it look nice
+[] 	Add more video links for the exercises
+[]  work on rewriting the descriptions of the exercises
 
 
 
