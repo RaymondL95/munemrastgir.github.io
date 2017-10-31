@@ -74,7 +74,7 @@ body{
     .arms:hover:after{
         content: url("https://i.imgur.com/RijcUR4.jpg");
         position: relative;
-        left: 584px;
+        left: 307px;
         top: 4px;
         pointer-events: none;
     }
@@ -85,7 +85,7 @@ body{
 .abs:hover:after{
     content:url(https://i.imgur.com/RNYk2o7.jpg);
     position: absolute;
-    left: 584px;
+    left: 307px;
     top: 4px;
     pointer-events: none;
 }
@@ -96,7 +96,7 @@ body{
 .chest:hover:after{
     content:url(https://i.imgur.com/kHUysx8.jpg);
     position: absolute;
-    left: 584px;
+    left: 307px;
     top: 4px;
     pointer-events: none;
 }
@@ -107,7 +107,7 @@ body{
 .legs:hover:after{
     content:url(https://i.imgur.com/AcBcFMx.jpg);
     position: absolute;
-    left: 584px;
+    left: 307px;
     top: 4px;
     pointer-events: none;
 }
@@ -118,7 +118,7 @@ body{
 .back:hover:after{
     content:url(https://i.imgur.com/iRyjPza.jpg);
     position: absolute;
-    left: 584px;
+    left: 307px;
     top: 4px;
     pointer-events: none;
 }
