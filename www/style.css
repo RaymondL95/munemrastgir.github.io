@@ -132,3 +132,28 @@ iframe{
     background-color:black;
     color:white;
 }
+h3{
+  background-color:gray;
+  width:400px;
+  color:white;
+  border: 3px solid white;
+  padding: 25px;
+  float:left;
+  border-radius:15px;    
+}
+.exercises{
+    list-style: none;
+    text-decoration: none;
+    /* Supports firefox*/
+    -moz-column-count: 4;
+    -moz-column-gap: 10px;
+    /* Supports Chrome/Safari */
+    -webkit-column-count: 4;
+    -webkit-column-gap: 10px;
+    /*Opera*/
+    -o-column-count: 4;
+    -o-column-gap: 10px;
+    /* Others */
+    column-count: 4;
+    column-gap: 10px;
+}
