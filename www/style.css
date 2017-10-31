@@ -63,7 +63,7 @@ body{
 
 .body{
     position: relative;
-		top: 70px;
+		top: 0px;
 		left: 0px;
 }
 
@@ -75,7 +75,7 @@ body{
         content: url("https://i.imgur.com/RijcUR4.jpg");
         position: absolute;
         left: 360px;
-        top: -746px;
+        top: -752px;
         pointer-events: none;
     }
 
@@ -86,7 +86,7 @@ body{
     content:url(https://i.imgur.com/RNYk2o7.jpg);
     position: absolute;
     left: 360px;
-    top: -746px;
+    top: -752px;
     pointer-events: none;
 }
 
@@ -97,7 +97,7 @@ body{
     content:url(https://i.imgur.com/kHUysx8.jpg);
     position: absolute;
     left: 360px;
-    top: -746px;
+    top: -752px;
     pointer-events: none;
 }
 
@@ -108,7 +108,7 @@ body{
     content:url(https://i.imgur.com/AcBcFMx.jpg);
     position: absolute;
     left: 360px;
-    top: -746px;
+    top: -752px;
     pointer-events: none;
 }
 
@@ -119,7 +119,7 @@ body{
     content:url(https://i.imgur.com/iRyjPza.jpg);
     position: absolute;
     left: 360px;
-    top: -746px;
+    top: -752px;
     pointer-events: none;
 }
 iframe{
