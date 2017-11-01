@@ -56,8 +56,8 @@ body{
 /* Display Dropdown on mouse-over */
 .nav>li:hover ul>li{
     display:block;
-    font-size: 8px;
-    background-color:gray;
+    font-size: 12px;
+    background-color:skyblue;
 
 }
 
@@ -73,7 +73,7 @@ body{
 
     .arms:hover:after{
         content: url("https://i.imgur.com/RijcUR4.jpg");
-        position: relative;
+        position: absolute;
         left: 360px;
         top: -752px;
         pointer-events: none;
@@ -132,8 +132,36 @@ iframe{
     background-color:black;
     color:white;
 }
+<<<<<<< HEAD
 
 .textClickable{
     background: none;
     border: none;
 }
+=======
+#desc{
+  background-color:gray;
+  width:400px;
+  color:white;
+  border: 3px solid white;
+  padding: 25px;
+  float:left;
+  border-radius:15px;    
+}
+.exercises{
+    list-style: none;
+    text-decoration: none;
+    /* Supports firefox*/
+    -moz-column-count: 4;
+    -moz-column-gap: 10px;
+    /* Supports Chrome/Safari */
+    -webkit-column-count: 4;
+    -webkit-column-gap: 10px;
+    /*Opera*/
+    -o-column-count: 4;
+    -o-column-gap: 10px;
+    /* Others */
+    column-count: 4;
+    column-gap: 10px;
+}
+>>>>>>> f069c452b335d5ff818ccb44747d4d381c7bef43

@@ -18,7 +18,7 @@ header>h1{
 }
 
 #banner{
-    background:url(https://media.giphy.com/media/df9PH5lZbnHlC/giphy.gif);
+    background:url(https://media1.tenor.com/images/d1fa30c3a492149087de7f000329bc34/tenor.gif?itemid=4750030);
     background-size:cover;
     width:100%;
     height:900px;
@@ -44,6 +44,11 @@ header>h1{
     width:100%;
     position:relative;
     top:1000px;
+    
     background:white;
-    height:2000px;
+    height:950px;
+}
+#content>img{
+    position:relative;
+    left:-400px;
 }

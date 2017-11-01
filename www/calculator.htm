@@ -23,7 +23,7 @@
     </li>        
     
     <!--Drop Down Under more --> 
-    <li> <a href= "more.htm">More</a>
+    <li> <a href= "">More</a>
     <ul>
             <li> <a href= "calculator.htm">Calculators</a>
             <li> <a href= "nutrition.htm">Nutrition</a>
@@ -106,18 +106,20 @@ function myReset(){
         Activity 
         <select id="activity" name="activity" onchange="myFunction()">
         <option value="None">Select Activity Level</option>
-        <option value="sed">Sedentary</option>
-        <option value="lig">Lightly Active</option>
-        <option value="mod">Moderately Active</option>
-        <option value="ver">Very Active</option>
-        <option value="ext">Extremely Active</option>
+        <option value="sed">Sedentary (Office job)</option>
+        <option value="lig">Lightly Active (1-2 days/week)</option>
+        <option value="mod">Moderately Active (3-5 days/week)</option>
+        <option value="ver">Very Active (6-7 days/week)</option>
+        <option value="ext">Extremely Active (2x per day)</option>
         </select>
         <br>
         
         <input type="button" value="calculate" onClick="getTdee()">
         <div id="totalTdee"></div>
+        
         </fieldset>
     </form>
+    
     
         <script>
         var genChoice = new Array();
@@ -201,40 +203,8 @@ function myReset(){
     
         }
         </script>
-        
-   
 </div>
-    
-<div>
-    <h2>TDEE Calculator</h2>
-<body ng-app="">
-<form>
-    Gender:
-    <input type="radio" ng-model="myVar" value ="66">Male
-    <input type="radio" ng-model="myVar" value ="655">Female
-</form>
-Age: <input type="number" name="age">
-<br>
-Height(inches): <input type="number" name="height">
-<br>
-Weight(kg): <input type="number" name="weight">
-<form>
-Activity Level:
-    <select ng-model="myXar">
-        <option value="">
-        <option value="sed">Sedentary
-        <option value="lig">Lightly Active
-        <option value="mod">Moderately Active
-        <option value="ver">Very Active
-        <option value="ext">Extremely Active
-    </select>
-</form>
-
-</body>
-    
     <p><a href="nutrition.htm">Click here to find out more about TDEE</a></p>
-    
-</div>
     <div data-ng-app="" data-ng-init="weight=100;height=65">
 
             <h2>BMI Calculator</h2>
@@ -243,7 +213,7 @@ Activity Level:
             Weight: <input type="number" ng-model="weight">
             Height: <input type="number" ng-model="height">
 
-            <p><b>BMI:</b> {{((weight * .45)/(height*.025))/(height*.025)}}</p>
+            <p><b>BMI:</b> {{((weight * .45)/(height*.025))/(height*.025)|number:2}}</p>
                 <!-- BMI Chart -->
             <img src= "https://i.imgur.com/fap6Xuw.png" img>
 
