@@ -17,14 +17,14 @@ function exerciseLoader(data){
     
     $(document).ready(function(){
     $(".exercises li").click(function(){
-        var listNum= $(this).attr("id");
-        $("h2").text(data.abs[listNum].Exercise);
+    var listNum= $(this).attr("id");
+    $("h2").text(data.abs[listNum].Exercise);
+    var h3=document.createElement("h3");
+    h3.innerHTML=data.abs[listNum].Descriptions;
+    h3.setAttribute("style","text-align: center");
+    $(h3).attr({"id":"desc","style":"text-align: center"});
+    $(h3).appendTo("#gen");
     
-        var h3=document.getElementById("desc");
-        h3.innerHTML=data.abs[listNum].Descriptions;
-        h3.setAttribute("style","text-align: center");
-        $("#desc").replaceWith(h3);
-        
         if($("iframe").length==0)
             {
                 var v=document.createElement("iframe"); 
