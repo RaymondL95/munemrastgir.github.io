@@ -19,10 +19,20 @@ function exerciseLoader(data){
     $(".exercises li").click(function(){
         var listNum= $(this).attr("id");
         $("h2").text(data.chest[listNum].Exercise);
+        
+        if(!$("#desc").length)
+            {
          var h3=document.createElement("h3");
         h3.innerHTML=data.chest[listNum].Descriptions;
         $(h3).attr({"id":"desc","style":"text-align: center"});
         $(h3).appendTo("#gen");
+            }
+        else
+            {
+                var h3=document.getElementById("desc");
+        h3.innerHTML=data.chest[listNum].Descriptions;
+        $("#desc").replaceWith(h3);
+            }
         
         if($("iframe").length==0)
             {
