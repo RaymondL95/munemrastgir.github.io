@@ -132,3 +132,8 @@ iframe{
     background-color:black;
     color:white;
 }
+
+.textClickable{
+    background: none;
+    border: none;
+}
