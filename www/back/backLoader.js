@@ -6,8 +6,11 @@ function exerciseList(data) {
             str=data.back[i].Exercise;
             var li= document.createElement("li");  //create a new item for the list
             li.setAttribute("id",i);
+            var b=document.createElement("button");
+            $(b).addClass("textClickable");
+            $(b).text(str);
             //set the item to the ith exercise from our json database
-            li.innerHTML=str;
+            li.appendChild(b);
             ul.appendChild(li); // add that item to the unordered list
         }
 }
