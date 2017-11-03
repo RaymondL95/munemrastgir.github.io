@@ -1,0 +1,88 @@
+﻿October 30th
+“Fitness-Web”
+
+Raymond Leung’s work
+
+From last week:
+[x] Additional UI
+[x] Add text for each supplement
+	[x] css for supplements
+[x ] Add Tips.htm
+	[x] css for Tips.htm
+Added mid-week:
+[x] Added Description box for exercises.
+
+For this week:
+[x] Added some videos for chest
+[x] Deleted unnecessary links
+[x] Changed exercise list to column
+For next week:
+[] Create Workouts.htm
+[] Create Definitions.htm
+[] Populate database
+[] Update to html5
+============================================================
+============================================================
+Shi Li Liang’s work
+From last week:
+[x] create a TDEE calculator
+[x] finish modify 1rm calculator with javascript
+   [x] added reset button for 1rm calculator
+Added mid-week:
+
+For this week:
+[ ] add information about TDEE to nutrition.htm
+[ ] add workout plans to the website
+For next week:
+
+============================================================
+============================================================
+Munem Rastgir’s work
+From last week:
+[X] Update nutrition page layout
+[x] Fix calculators to round using angularjs
+
+For this week:
+[] Modify exercises in the abs page
+[] Add tips page
+[] Make nutrition page have a list of articles users can navigate to
+[] Find videos to add to site
+[] Add article system to other webpages
+[] Add new features using Javascript
+Added mid-week:
+
+
+For next week:
+
+============================================================
+============================================================
+Christopher Mayol’s work
+From last week:
+[x] added jquery to help simplify javascript code
+[x] research and use jquery and javascript DOM manipulation
+[x] generate html tags based on a given exercise and it's data
+[x] research and use event listeners for both jquery and javascript
+[x]	work on the website design
+[x]	work on implementation of the searching function for the searchbox
+[x]  re-write the descriptions for exercises on the json files
+[x]	research serverbased node.js to replace client-side database
+[x]	The ability to embed videos to our workout pages based on the links of the exercises in the json database
+[x]	Added more video links for exercises. note: This will take a long time to fully complete because we have over 900+ exercises 
+Added mid-week:
+
+
+For this week:
+[]	research node.js
+[]	research more on javascript and jquery
+[]  work on the implementation of serverbased node.js 
+[]	work on the implementation the searching function for the searchbox
+[]	add some css styles for some tags to make it look nice
+[] 	Add more video links for the exercises
+[]  work on rewriting the descriptions of the exercises
+
+For next week:
+
+
+
+
+
