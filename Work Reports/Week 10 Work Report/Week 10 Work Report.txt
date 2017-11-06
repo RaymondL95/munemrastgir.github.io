@@ -1,4 +1,4 @@
-﻿October 30th
+October 30th
 “Fitness-Web”
 
 Raymond Leung’s work
@@ -31,10 +31,11 @@ From last week:
 Added mid-week:
 
 For this week:
-[ ] add information about TDEE to nutrition.htm
-[ ] add workout plans to the website
+[x] added youtube links for chest exercises 
 For next week:
-
+[ ] add descriptions for chest exercises
+[ ] add more youtube links
+[ ] add images for exercises with no youtube links
 ============================================================
 ============================================================
 Munem Rastgir’s work
