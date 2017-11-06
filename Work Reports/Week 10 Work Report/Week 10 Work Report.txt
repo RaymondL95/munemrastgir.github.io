@@ -43,17 +43,17 @@ From last week:
 [x] Fix calculators to round using angularjs
 
 For this week:
-[] Modify exercises in the abs page
-[] Add tips page
+[X] Add 10 new exercises and videos to abs database
 [] Make nutrition page have a list of articles users can navigate to
-[] Find videos to add to site
-[] Add article system to other webpages
+[X] Add more deits to nutrition
 [] Add new features using Javascript
 Added mid-week:
-
+[]Have an account creation system with database
 
 For next week:
-
+[] Finish writing ab descriptions and videos
+[] Create account creation system
+[] Add images to exercise database
 ============================================================
 ============================================================
 Christopher Mayol’s work
