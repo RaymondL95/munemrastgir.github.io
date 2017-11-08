@@ -4,11 +4,19 @@
     border:0;
     text-align: center;
 }
-
+#picture1{
+    overflow: hidden;
+    height:auto;
+    width:100%;
+    z-index: -500;
+    
+}
+#picture1>h1{
+    z-index: -1;
+}
 header{
     height:100px;
     background:black;
-
     width:100%;
     z-index:10;
     position:fixed;
@@ -16,10 +24,13 @@ header{
 header>h1{
     color:White;
     font-family: serif;
+    position:relative;
+    top: -450px;
 }
 
 #banner{
-    background:url(http://www.stagemilk.com/wp-content/uploads/2017/01/fitness-for-actors.jpg);
+    background:url(https://images5.alphacoders.com/608/608041.jpg);
+    overflow: hidden;
     background-size:cover;
     width:100%;
     height:900px;
@@ -34,7 +45,7 @@ header>h1{
     font-size:96;
     text-shadow: -2px 0 black, 1px 0 black, 0 -2px black;
     margin: auto;
-    margin-top: -100px;
+    margin-top: -250px;
     position: absolute;
     top: 25%;
     width: 100%;
@@ -43,6 +54,7 @@ header>h1{
 #banner>h3{
     /* The Best Fitness Website in Town*/
     font-family: Open Sans;
+    font-style: italic;
 	font-weight: 300;
 	line-height: 1.8;
     left: 0;
@@ -51,7 +63,7 @@ header>h1{
     font-size:35;
     text-shadow: 1px 0px black, 0px 3px black, 0px 0px black;
     margin: auto;
-    margin-top: -100px;
+    margin-top: -250px;
     position: absolute;
     top: 35%;
     width: 100%;
@@ -62,11 +74,7 @@ header>h1{
     width:100%;
     position:relative;
     top:1000px;
-    
     background:white;
-    height:950px;
+    height:1500px;
 }
-#content>img{
-    position:relative;
-    left:-400px;
-}
+
