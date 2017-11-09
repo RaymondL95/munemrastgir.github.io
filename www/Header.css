@@ -32,7 +32,7 @@ header>h1{
 }
 
 #banner{
-    background:url(https://images5.alphacoders.com/608/608041.jpg);
+    background-image: url(../images/banner.jpg);
     overflow: hidden;
     background-size:cover;
     width:100%;
