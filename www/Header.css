@@ -33,12 +33,12 @@ header>h1{
 
 #banner{
     background-image: url(../images/banner.jpg);
-    overflow: hidden;
-    background-size:cover;
+    background-size: cover;
     width:100%;
     height:900px;
     position:fixed;
     top:100px;
+    
 }
 #banner>h2{
     /* The Best Fitness Website in Town*/
