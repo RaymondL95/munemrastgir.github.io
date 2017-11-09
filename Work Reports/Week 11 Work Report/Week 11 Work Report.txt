@@ -1,0 +1,82 @@
+November 6th
+“Fitness-Web”
+
+Raymond Leung’s work
+
+From last week:
+[x] Added some videos for chest
+[x] Deleted unnecessary links
+[x] Changed exercise list to column
+[x] Added Description box for exercises.
+Added mid-week:
+[x] Created Contacts Page
+	[x] Finalized Contacts Page
+[x] Added More items to banner
+	[x] Added Text
+	[x] Updated Image
+[x] New Banner for content
+
+For this week:
+[x] Create Workouts.htm
+[] Create Definitions.htm
+[x] Populate database
+[] Update to html5
+For next week:
+[]Images for each exercise page
+	[] Add more items to database
+[]Populate database
+============================================================
+============================================================
+Shi Li Liang’s work
+From last week:
+[x] added youtube links for chest exercises 
+Added mid-week:
+
+For this week:
+[ ] add descriptions for chest exercises
+[ ] add more youtube links
+[ ] add images for exercises with no youtube links
+For next week:
+
+============================================================
+============================================================
+Munem Rastgir’s work
+From last week:
+[X] Add more deits to nutrition
+[X] Add 10 new exercises and videos to abs database
+For this week:
+
+[] Make nutrition page have a list of articles users can navigate to
+[]Have an account creation system with database
+[] Add new features using Javascript
+[] Finish writing ab descriptions and videos
+[] Create account creation system
+[] Add images to exercise database
+Added mid-week:
+
+
+For next week:
+
+============================================================
+============================================================
+Christopher Mayol’s work
+From last week:
+
+Added mid-week:
+
+
+For this week:
+[]	research node.js
+[]	research more on javascript and jquery
+[]  work on the implementation of serverbased node.js 
+[]	work on the implementation the searching function for the searchbox
+[]	add some css styles for some tags to make it look nice
+[] 	Add more video links for the exercises
+[]  work on rewriting the descriptions of the exercises
+
+For next week:
+
+
+
+
+
