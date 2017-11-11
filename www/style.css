@@ -165,3 +165,14 @@ iframe{
     column-gap: 10px;
 }
 >>>>>>> f069c452b335d5ff818ccb44747d4d381c7bef43
+
+fieldset { 
+    display: block;
+    margin-left: 2px;
+    margin-right: 100px;
+    padding-top: 0.35em;
+    padding-bottom: 0.625em;
+    padding-left: 0.75em;
+    padding-right: 0.75em;
+    border: 2px groove (internal value);
+}
