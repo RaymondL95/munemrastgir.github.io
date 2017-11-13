@@ -61,18 +61,22 @@ For next week:
 ============================================================
 Christopher Mayol’s work
 From last week:
-
+[x]	research node.js
+[x]	research more on javascript and jquery
+[x]  work on the implementation of serverbased node.js 
+[x]	work on the implementation the searching function for the searchbox
+[x]	add some css styles for some tags to make it look nice
+[x] 	Add more video links for the exercises
+[x]  work on rewriting the descriptions of the exercises
 Added mid-week:
 
 
 For this week:
-[]	research node.js
-[]	research more on javascript and jquery
-[]  work on the implementation of serverbased node.js 
-[]	work on the implementation the searching function for the searchbox
-[]	add some css styles for some tags to make it look nice
-[] 	Add more video links for the exercises
-[]  work on rewriting the descriptions of the exercises
+[x]	make some improvements to the loader functions
+[x] work on the implementation of serverbased node.js 
+[x]	work on the implementation the searching function for the searchbox
+[x]	make improvemts to the design of the exercise pages
+[x] Add more video links for the exercises
 
 For next week:
 
