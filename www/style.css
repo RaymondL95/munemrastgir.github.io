@@ -176,16 +176,14 @@ fieldset {
     width:12%;
     height:1000px;
     position: absolute;
-    top: 1312px;
+    top: 1283px;
 }
 
 #rsidebar{
-    background: url(https://everydaylisamae.files.wordpress.com/2015/02/running.jpg) -455px 0px;
-    background-size: auto;
-    width: 14%;
-    height:1000px;
+    background: url(https://everydaylisamae.files.wordpress.com/2015/02/running.jpg) -455px;
+    width: 12%;
+    height: 1000px;
     position: absolute;
-    top: 1311px;
-    right:0px;
-        
+    top: 1283px;
+    right: 0px;
 }
