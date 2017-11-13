@@ -33,10 +33,11 @@ From last week:
 Added mid-week:
 
 For this week:
-[ ] add descriptions for chest exercises
-[ ] add more youtube links
-[ ] add images for exercises with no youtube links
+[x] add more youtube links for chest exercises 
 For next week:
+[ ] add descriptions for chest exercises
+[ ] add images for exercises with no youtube links
+
 
 ============================================================
 ============================================================
