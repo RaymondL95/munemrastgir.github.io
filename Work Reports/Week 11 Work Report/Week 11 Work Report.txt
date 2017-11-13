@@ -44,18 +44,21 @@ Munem Rastgir’s work
 From last week:
 [X] Add more deits to nutrition
 [X] Add 10 new exercises and videos to abs database
+
 For this week:
-
 [] Make nutrition page have a list of articles users can navigate to
-[]Have an account creation system with database
 [] Add new features using Javascript
-[] Finish writing ab descriptions and videos
+[x] Finish writing ab descriptions and videos
 [] Create account creation system
-[] Add images to exercise database
+[x] Add images to exercise database
 Added mid-week:
-
+[x] Added sidebar images on main page
+[X] Fixed calculator and nutrition formatting using CSS
 
 For next week:
+[] Write more exercises for other muscle groups
+[] Add articles to nutrition page
+[] Change font ane style of text in exercise pages
 
 ============================================================
 ============================================================
