@@ -6,8 +6,14 @@ h3{
 }
 .WorkoutList{
     text-align: center;
-}
-.WorkoutList>li>ul>li{
     list-style: none;
+}
+.WorkoutList>li>header{
+    color:darkgreen;
+    font-size: 46;
+}
+.WorkoutList>li>p{
+    font-size: 24;
+    
 }
 

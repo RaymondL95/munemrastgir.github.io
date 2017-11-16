@@ -1,0 +1,83 @@
+﻿November 13th
+“Fitness-Web”
+
+Raymond Leung’s work
+
+From last week:
+[x] Created Contacts Page
+	[x] Finalized Contacts Page
+[x] Added More items to banner
+	[x] Added Text
+	[x] Updated Image
+[x] New Banner for content
+Added mid-week:
+[x] Tips.htm
+	[x] Added Tips
+For this week:
+[x] Create Workouts.htm
+   [x] Added some workouts
+[x]Tips.css
+[x]Workouts.css
+[x] Populate database
+[] Create Definitions.htm
+[] Update to html5
+For next week:
+[] About Us
+[]Populate database
+============================================================
+============================================================
+Shi Li Liang’s work
+From last week:
+[x] add more youtube links for chest exercises 
+Added mid-week:
+
+For this week:
+[ ] add descriptions for chest exercises
+[ ] add images for exercises with no youtube links
+For next week:
+
+
+
+============================================================
+============================================================
+Munem Rastgir’s work
+From last week:
+[x] Finish writing ab descriptions and videos
+[x] Added sidebar images on main page
+[X] Fixed calculator and nutrition formatting using CSS
+[x] Add images to exercise database
+For this week:
+[] Make nutrition page have a list of articles users can navigate to
+[] Add new features using Javascript
+[] Write more exercises for other muscle groups
+[] Add articles to nutrition page
+[] Change font ane style of text in exercise pages
+[] Create account creation system
+
+Added mid-week:
+
+
+For next week:
+
+
+============================================================
+============================================================
+Christopher Mayol’s work
+From last week:
+[x]	make some improvements to the loader functions
+[x] work on the implementation of serverbased node.js 
+[x]	work on the implementation the searching function for the searchbox
+[x]	make improvemts to the design of the exercise pages
+[x] Add more video links for the exercises
+Added mid-week:
+
+
+For this week:
+
+
+For next week:
+
+
+
+
+
