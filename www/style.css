@@ -139,11 +139,6 @@ iframe{
     border: none;
 }
 
-fieldset { 
-    margin-right: 900px;
-
-}
-
 #desc{
   background-color:gray;
   width:400px;
@@ -172,7 +167,6 @@ fieldset {
 
 #sidebar{
      background: url(https://www.t-nation.com/system/publishing/articles/10003878/original/Burn-Until-You%27re-Big.jpg?1471896857) -70px 0px;
-    background-size: auto;
     width:12%;
     height:1000px;
     position: absolute;
