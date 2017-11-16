@@ -1,141 +1,36 @@
-body{
-    margin:0px;
-  	padding:0px;
-  	font-family: 'Arial',serif;
-    color:white;
- background:url(https://78.media.tumblr.com/b45f5002f5c19c9b853b79bb0bbd56d1/tumblr_ofgz2eFAXN1uhjffgo1_500.gif);
-    background-size:cover;
-    width:100%;
-    overflow-x: hidden;
-    
-}
-p{
-    text-indent: 50px;
-}
-.center{
-    margin:auto;
-    width:60%;
-    padding:10px;
-    line-height:135%;
-    padding-bottom: 50px;
-}
-#supplementList{
-   
-}
-#supplementList>protein>p{
-margin:auto;
-width:60%;
-padding:10px;
-position:relative;
-    top:-200px;
-    left: 0px;
-    line-height: 135%;
-}
-#supplementlist>protein>h1{
-   position:relative;
-    text-align: center;
-    top:-200px;
-    
-}
 
-#supplementList>creatine>p{
-margin:auto;
-    width:60%;
-    padding:10px;
-    position:relative;
-    top: -200px;
-    left:0px;
-    line-height:135%;
-}
-#supplementlist>creatine>h2{
-   position:relative;
-    top:-200px;
+
+div>h1{
+    margin: auto;
     text-align: center;
-    font-size: 32;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    color: teal;
+    padding-bottom: 100px;
 }
-#supplementList>amino_acids>p{
-margin:auto;
-    width:60%;
-    padding:10px;
-    position:relative;
-    top: -200px;
-    left:0px;
-    line-height:135%;
+div>ul>li {
+    margin: auto;
+    border: 1px solid gray;
+    padding: 5px;
+    font-size: 130%;
 }
-#supplementlist>amino_acids>h3{
-   position:relative;
-    top:-200px;
+div>ul{
+    list-style: none;
+}
+/* Decoration for each list Title */
+li>header{
+    margin: auto;
     text-align: center;
-    font-size: 32;
+    text-transform: uppercase;
+    letter-spacing: 3px;
+    color: black;
+    font-size: 175%;
+    font-weight: bold;
 }
-#supplementList>amino_acids>ul{
-    position:relative;
-    top:-200px;
-    left:100px;
-}
-#supplementList>multi_vitamins>p{
-margin:auto;
-    width:60%;
-    padding:10px;
-    position:relative;
-    top: -200px;
-    left:0px;
-    line-height:135%;
-}
-#supplementlist>multi_vitamins>h4{
-   position:relative;
-    top:-200px;
+/* Centers All List Elements */
+ul{
+    position: relative;
+    text-indent: 50px;
     text-align: center;
-    font-size: 32;
-}
-#supplementList>fish_oil>p{
-margin:auto;
-    width:60%;
-    padding:10px;
-    position:relative;
-    top: -200px;
-    left:0px;
-    line-height:135%;
-}
-#supplementlist>fish_oil>h5{
-   position:relative;
-    top:-200px;
-    text-align: center;
-    font-size: 32;
-}
-#supplementList>fish_oil>ul{
-    position:relative;
-    top:-200px;
-    left:100px;
-}
-#supplementList>bcaa>p{
-margin:auto;
-    width:60%;
-    padding:10px;
-    position:relative;
-    top: -200px;
-    left:0px;
-    line-height:135%;
-}
-#supplementlist>bcaa>h6{
-   position:relative;
-    top:-200px;
-    text-align: center;
-    font-size: 32;
-}
-#supplementList>pre_workout>p{
-margin:auto;
-    width:60%;
-    padding:10px;
-    position:relative;
-    top: -200px;
-    left:0px;
-    line-height:135%;
-}
-#supplementlist>pre_workout>h7{
-   position:relative;
-    top:-200px;
-    left:500px;
-    text-align: center;
-    font-size: 32;
+    padding-left: 0px;
 }
