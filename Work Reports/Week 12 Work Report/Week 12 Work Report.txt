@@ -47,19 +47,20 @@ From last week:
 [X] Fixed calculator and nutrition formatting using CSS
 [x] Add images to exercise database
 For this week:
-[] Make nutrition page have a list of articles users can navigate to
-[] Add new features using Javascript
-[] Write more exercises for other muscle groups
-[] Add articles to nutrition page
-[] Change font ane style of text in exercise pages
+[X] Add new features using Javascript
+[X] Write more exercises for other muscle groups
+[X] Add articles to nutrition page
+[X] Change font and style of text in exercise pages
 [] Create account creation system
 
 Added mid-week:
-
+[X]Added icons to exercise pages
+[X] Updated hompage sidebars to properly merge with images
 
 For next week:
-
-
+[]More CSS changes
+[]Finish up leg exercise database
+[]Account creation system
 ============================================================
 ============================================================
 Christopher Mayol’s work
