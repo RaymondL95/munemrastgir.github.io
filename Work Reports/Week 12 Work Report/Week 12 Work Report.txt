@@ -1,4 +1,4 @@
-﻿November 13th
+November 13th
 “Fitness-Web”
 
 Raymond Leung’s work
@@ -32,11 +32,13 @@ From last week:
 Added mid-week:
 
 For this week:
-[ ] add descriptions for chest exercises
-[ ] add images for exercises with no youtube links
+[x] added descriptions for chest exercises
+[x] added new image maps for links to subpages
+[x] working on macronutrient calculator 
+[ ] added a table about macronutrient
 For next week:
-
-
+[ ] add more descriptions for chest exercises
+[ ] Finish working on the macronutrient calculator
 
 ============================================================
 ============================================================
