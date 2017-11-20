@@ -76,9 +76,17 @@ Added mid-week:
 
 
 For this week:
+[x] add more exercises for chest database
+[x] improve javascript functions and jquery implementations
+[x] keep working on the search function
+[x] more css styling
+[x] keep testing node.js
 
 
 For next week:
+[] finish the node.js implementation
+[] add more exercises for chest database
+[]	improve the search function
 
 
 
