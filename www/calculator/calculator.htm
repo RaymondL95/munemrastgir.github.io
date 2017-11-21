@@ -206,6 +206,101 @@ function myReset(){
         </script>
 </div>
     <p><a href="nutrition.htm">Click here to find out more about TDEE</a></p>
+    
+<div>
+    <form name ="bulk" action=“” id=“bulkOrCut” onsubmit=“return false;”>
+	<fieldset>
+		<legend>Bulk, Cut, or Maintenance</legend>
+		<label>Enter your TDEE</label>
+		<br>
+		TDEE
+		<input type=“text” name=“tdee” id=“tdee”/>
+		<br>
+		Bulk, Cut, or Maintenance(Diet Plan)
+		<select id=“dietPlan” name=“dietPlan” onchange=“myFunction()”>
+		<option value=“None”> Select Diet Plan </option>
+		<option value=“gain1”> Gain 1lb per week</option>
+		<option value=“gain.5”> Gain 0.5lb per week </option>
+		<option value=“maintain”> Maintain my current weight </option>
+		<option value=“lose.5”> Lose 0.5lb per week </option>
+		<option value=“lose1”> Lose 1lb per week </option>
+		</select>
+		<br>
+		Macronutrient Percentage
+		<select id=“macro” name=“macro” onchange=“myFunction()”>
+		<option value=“None”> Select Macronutrient Percentage </option>
+		<option value=“highCarbs”> 25% Protein, 55% Carbs, and 20% Fat</option>
+		<option value=“balanced”> 30% Protein, 40% Carbs, and 30% Fat</option>
+		<option value=“highFatProtein”> 35% Protein, 25% Carbs, and 40% Fat</option>
+		</select>
+		<br>
+        Protein: <input type="text" name="protein1">
+        <br>
+        Carbohydrate: <input type="text" name="carb1">
+        <br>
+        Fat: <input type="text" name="fat1">
+        <br>
+        <input type="button" value="calculate" onClick="getMacro()">
+        <div id="totalMacro"></div>
+	</fieldset>
+    </form>
+
+<script>
+	function getTdee(){
+		var theForm = document.forms[“bulkOrCut”];
+		var tdee = theForm.elements[“tdee”];
+		var tde = 0;
+		if(tdee.value!=0){
+			tde = parseInt(tdee.value);
+		}
+	
+	return tde;
+	}
+
+	var diet_plan = new array();
+	diet_plan[“None”]= 0;
+	diet_plan[“gain1”]=500;
+	diet_plan[“gain0.5”]=250;
+	diet_plan[“maintain”]=0;
+	diet_plan[“lose.5”]=-250;
+	diet_plan[“lose1”]=-500;
+	
+	function getDietPlan(){
+		var diet = 0;
+		var theForm = document.forms[“bulkOrCut”];
+		var selectedDietPlan = theForm.element[“dietPlan”];
+		diet = diet_plan[selectedDietPlan.value];
+		return diet;
+	}
+
+	var macro_percentage = new array();
+	macro_percentage[“None”]=0;
+	macro_percentage[“highCarbs”]=1;
+	macro_percentage[“balanced”]=2;
+	macro_percentage[“highFatProtein”]=3;
+	
+	function getMacro(){
+		var macro = 0;
+		var theForm = document.forms[“bulkOrCut”];
+		var selecteMacro = theForm.element[“macro”];
+		macro = macro_percentage[selectedMacro.value];
+		return macro;	
+	}
+
+	function getMacro(){
+        
+		if(get macro == 1){
+			protein2 = Math.round((getTdee() + getDietPlan()) * .25);
+            carb2 = Math.round(getTdee() + getDietPlan()) * .55);
+            fat2 = Math.round(getTdee() + getDietPlan()) * .20);
+            
+		}
+        document.getElementsById('totalMacro').innerHTML = "Protein: " + protein2 + ". Carbohydrate: " + carb2 + ". Fat: " + fat2; 
+	}
+
+	</script> 
+</div>
+    
     <div data-ng-app="" data-ng-init="weight=100;height=65">
 
             <h2>BMI Calculator</h2>
