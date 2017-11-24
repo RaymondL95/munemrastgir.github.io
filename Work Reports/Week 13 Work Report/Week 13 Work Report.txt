@@ -1,0 +1,107 @@
+﻿November 20th
+“Fitness-Web”
+
+Final Presentation
+•Overview of Project
+	•Explanation Of Project/Goals
+	•Use of Technologies
+	•Architecture Of Projects
+	•Work Distribution
+•CSS
+	•What Is CSS?
+	•Why are we using CSS?
+	•When Should I Use CSS?
+	•How Does One Start using CSS?
+	•Why might one use the tool?
+	•What Problem Does It Solve?
+•HTML DOM
+	•What Is HTML DOM?
+	•Why are we using HTML DOM?
+	•Why might one use the tool?
+	•When Should I Use HTML DOM?
+	•What Problem Does It Solve?
+	•How Does One Start Using HTML DOM?
+
+Raymond Leung’s work
+
+From last week:
+[x] Tips.htm
+	[x] Added Tips
+[x] Create Workouts.htm
+   [x] Added some workouts
+[x]Tips.css
+[x]Workouts.css
+[x] Populate database
+Added mid-week:
+
+For this week:
+[x] Populate Database
+	[x] Added Leg Exercises + Videos
+[x] Create Definitions.htm
+[] Update to html5
+For next week:
+[] About Us
+[]Populate database
+
+============================================================
+============================================================
+Shi Li Liang’s work
+From last week:
+[x] added descriptions for chest exercises
+[x] added new image maps for links to subpages
+[x] working on macronutrient calculator 
+Added mid-week:
+
+For this week:
+[ ] add more descriptions for chest exercises
+[ ] Finish working on the macronutrient calculator
+[ ] added a table about macronutrient
+For next week:
+
+
+============================================================
+============================================================
+Munem Rastgir’s work
+From last week:
+[X] Add new features using Javascript
+[X] Write more exercises for other muscle groups
+[X] Add articles to nutrition page
+[X] Change font and style of text in exercise pages
+[X]Added icons to exercise pages
+[X] Updated hompage sidebars to properly merge with images
+
+For this week:
+
+[] Create account creation system
+[]More CSS changes
+[]Finish up leg exercise database
+[]Account creation system
+Added mid-week:
+
+For next week:
+
+============================================================
+============================================================
+Christopher Mayol’s work
+From last week:
+[x] add more exercises for chest database
+[x] improve javascript functions and jquery implementations
+[x] keep working on the search function
+[x] more css styling
+[x] keep testing node.js
+Added mid-week:
+
+
+For this week:
+[] finish the node.js implementation
+[] add more exercises for chest database
+[]	improve the search function
+
+
+For next week:
+
+
+
+
+
+
