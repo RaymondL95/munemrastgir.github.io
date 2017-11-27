@@ -98,8 +98,10 @@ Added mid-week:
 
 For this week:
 [] finish the node.js implementation
-[] add more exercises for chest database
-[]	improve the search function
+[x] add more exercises for chest database
+[x]	improve the search function
+[x] research html Document object model
+[x] work on slides for final presentation
 
 
 For next week:
