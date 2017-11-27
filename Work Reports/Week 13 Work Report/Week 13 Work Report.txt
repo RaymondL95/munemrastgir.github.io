@@ -1,4 +1,4 @@
-﻿November 20th
+November 20th
 “Fitness-Web”
 
 Final Presentation
@@ -53,10 +53,14 @@ From last week:
 Added mid-week:
 
 For this week:
-[ ] add more descriptions for chest exercises
-[ ] Finish working on the macronutrient calculator
-[ ] added a table about macronutrient
+[x] outlining the presentation
+[x] research about JS HTML DOM
+[x] continue working on the macronutrient calculator
+
 For next week:
+[ ]continue working on the presentation
+[ ]continue working on the macronutrient calculator
+[ ]add descriptions for chest exercises
 
 
 ============================================================
