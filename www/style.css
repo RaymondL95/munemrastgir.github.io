@@ -168,15 +168,14 @@ iframe{
      background: url(https://www.t-nation.com/system/publishing/articles/10003878/original/Burn-Until-You%27re-Big.jpg?1471896857) -70px 0px;
     width:12%;
     height:990px;
-    position: absolute;
-    top: 310px;
+    position: relative;
 }
 
 #rsidebar{
     background: url(https://everydaylisamae.files.wordpress.com/2015/02/running.jpg) -455px;
     width: 12%;
     height: 990px;
-    position: absolute;
-    top: 310px;
-    right: 0px;
+    position: relative;
+    top: -990;
+    float:right;
 }
