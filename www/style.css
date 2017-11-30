@@ -3,7 +3,6 @@ body{
   	padding:0px;
   	font-family: 'Arial',serif;
     color:black;
-   
 }
 
 .nav{
@@ -168,16 +167,16 @@ iframe{
 #sidebar{
      background: url(https://www.t-nation.com/system/publishing/articles/10003878/original/Burn-Until-You%27re-Big.jpg?1471896857) -70px 0px;
     width:12%;
-    height:1000px;
+    height:990px;
     position: absolute;
-    top: 1283px;
+    top: 310px;
 }
 
 #rsidebar{
     background: url(https://everydaylisamae.files.wordpress.com/2015/02/running.jpg) -455px;
     width: 12%;
-    height: 1000px;
+    height: 990px;
     position: absolute;
-    top: 1283px;
+    top: 310px;
     right: 0px;
 }
