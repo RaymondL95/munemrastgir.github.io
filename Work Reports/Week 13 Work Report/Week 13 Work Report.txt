@@ -9,18 +9,18 @@ Final Presentation
 	•Work Distribution
 •CSS
 	•What Is CSS?
-	•Why are we using CSS?
 	•When Should I Use CSS?
 	•How Does One Start using CSS?
 	•Why might one use the tool?
 	•What Problem Does It Solve?
+	•Why are we using CSS?
 •HTML DOM
 	•What Is HTML DOM?
-	•Why are we using HTML DOM?
 	•Why might one use the tool?
 	•When Should I Use HTML DOM?
 	•What Problem Does It Solve?
 	•How Does One Start Using HTML DOM?
+	•Why are we using HTML DOM?
 
 Raymond Leung’s work
 
