@@ -1,0 +1,79 @@
+﻿November 27th
+“Fitness-Web”
+
+Raymond Leung’s work
+
+From last week:
+[x] Populate Database
+	[x] Added Leg Exercises + Videos
+Added mid-week:
+
+For this week:
+[x] Populate Database
+	[x] Added Leg Exercises + Videos
+[x] Worked on some slides for presentation
+[x] Research CSS
+For next week:
+[] About Us
+[]Populate database
+[]Work on presentation
+============================================================
+============================================================
+Shi Li Liang’s work
+From last week:
+[x] outlining the presentation
+[x] research about JS HTML DOM
+[x] continue working on the macronutrient calculator
+Added mid-week:
+
+For this week:
+
+For next week:
+[ ]continue working on the presentation
+[ ]continue working on the macronutrient calculator
+[ ]add descriptions for chest exercises
+
+
+============================================================
+============================================================
+Munem Rastgir’s work
+From last week:
+[x]More CSS changes
+[x]Finish up ab exercise database
+
+For this week:
+
+[] Create account creation system
+
+Added mid-week:
+
+For next week:
+[] Account creation system
+[] Finish leg exercises
+[] Finish nutrition page
+[] more CSS on homepage
+[] Work on presentation
+
+============================================================
+============================================================
+Christopher Mayol’s work
+From last week:
+[x] add more exercises for chest database
+[x]	improve the search function
+[x] research html Document object model
+[x] work on slides for final presentation
+Added mid-week:
+
+
+For this week:
+[] finish the node.js implementation
+
+
+
+For next week:
+
+
+
+
+
+
