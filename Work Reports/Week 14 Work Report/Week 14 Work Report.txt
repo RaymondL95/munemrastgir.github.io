@@ -1,4 +1,4 @@
-November 27th
+﻿November 27th
 “Fitness-Web”
 
 Raymond Leung’s work
@@ -64,6 +64,7 @@ From last week:
 [x] research html Document object model
 [x] work on slides for final presentation
 Added mid-week:
+[x] Added extra info for slides
 
 
 For this week:
@@ -72,9 +73,8 @@ For this week:
 
 
 For next week:
-
-
-
+[] Add More slides
+[]Finish AboutUs
 
 
 
