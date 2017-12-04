@@ -44,12 +44,12 @@ From last week:
 
 For this week:
 
-[] Create account creation system
+[x] Work on leg database
+[x] CSS slides
 
 Added mid-week:
 
 For next week:
-[] Account creation system
 [] Finish leg exercises
 [] Finish nutrition page
 [] more CSS on homepage
