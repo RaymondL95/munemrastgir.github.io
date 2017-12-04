@@ -1,4 +1,4 @@
-﻿November 27th
+November 27th
 “Fitness-Web”
 
 Raymond Leung’s work
@@ -21,15 +21,16 @@ For next week:
 ============================================================
 Shi Li Liang’s work
 From last week:
-[x] outlining the presentation
-[x] research about JS HTML DOM
-[x] continue working on the macronutrient calculator
+[x]continue working on the presentation
+[x]research JS HTML DOM
+
 Added mid-week:
 
 For this week:
 
 For next week:
 [ ]continue working on the presentation
+[ ]research JS HTML DOM
 [ ]continue working on the macronutrient calculator
 [ ]add descriptions for chest exercises
 
