@@ -27,11 +27,11 @@ From last week:
 Added mid-week:
 
 For this week:
-
+[x]continue working on the presentation
+[x]research JS HTML DOM
 For next week:
 [ ]continue working on the presentation
 [ ]research JS HTML DOM
-[ ]continue working on the macronutrient calculator
 [ ]add descriptions for chest exercises
 
 
