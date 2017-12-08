@@ -1,0 +1,76 @@
+﻿December 4th
+“Fitness-Web”
+
+Raymond Leung’s work
+
+From last week:
+[x] Populate Database
+	[x] Added Leg Exercises + Videos
+[x] Worked on some slides for presentation
+[x] Research CSS
+Added mid-week:
+[x] Aboutus
+For this week:
+[x] Populate Database finished back
+	[x] Added back Exercises + Videos
+[x] Worked on some slides for presentation
+[x] Research CSS
+
+For next week:
+[]Populate database
+[]Work on presentation
+============================================================
+============================================================
+Shi Li Liang’s work
+From last week:
+[x]continue working on the presentation
+[x]research JS HTML DOM
+Added mid-week:
+
+For this week:
+[ ]continue working on the presentation
+[ ]research JS HTML DOM
+[ ]add descriptions for chest exercises
+For next week:
+
+
+
+============================================================
+============================================================
+Munem Rastgir’s work
+From last week:
+[x] Work on leg database
+[x] CSS slides
+
+For this week:
+
+[] Finish leg exercises
+[] Finish nutrition page
+[] more CSS on homepage
+[] Work on presentation
+
+Added mid-week:
+
+For next week:
+
+
+============================================================
+============================================================
+Christopher Mayol’s work
+From last week:
+[x] Added extra info for slides
+Added mid-week:
+[x] Added extra info for slides
+
+
+For this week:
+[] finish the node.js implementation
+
+
+
+For next week:
+[] Add More slides
+[]Finish AboutUs
+
+
+
