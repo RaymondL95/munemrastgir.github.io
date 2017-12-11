@@ -1,4 +1,4 @@
-﻿December 4th
+December 4th
 “Fitness-Web”
 
 Raymond Leung’s work
@@ -25,14 +25,15 @@ Shi Li Liang’s work
 From last week:
 [x]continue working on the presentation
 [x]research JS HTML DOM
+[x]add descriptions for chest exercises
 Added mid-week:
 
 For this week:
+
+For next week:
 [ ]continue working on the presentation
 [ ]research JS HTML DOM
 [ ]add descriptions for chest exercises
-For next week:
-
 
 
 ============================================================
