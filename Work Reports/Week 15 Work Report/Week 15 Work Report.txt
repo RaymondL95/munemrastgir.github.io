@@ -44,15 +44,16 @@ From last week:
 
 For this week:
 
-[] Finish leg exercises
-[] Finish nutrition page
-[] more CSS on homepage
-[] Work on presentation
+[X] Finish leg exercises
+[X] Finish nutrition page
+[X] more CSS on homepage
+[X] Work on presentation
 
 Added mid-week:
-
+[] Add weekly workout planner
 For next week:
-
+[] Work on presentation
+[] Finish leg exercises
 
 ============================================================
 ============================================================
