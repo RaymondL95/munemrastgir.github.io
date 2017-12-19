@@ -1,9 +1,0 @@
-hello
-hello
-i am raymond
-<<<<<<< HEAD
-I am munem
-test pull
-=======
-test from home pc
->>>>>>> 1ddbc4c8abdb0b5ce4ee40df8ba42c702dc8e956
